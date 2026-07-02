@@ -1,9 +1,11 @@
-import requests, os, random
+import os
+import random
+import requests
 
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 CHANNEL_ID = os.getenv("CHANNEL_ID")
 
-# 📂 इथे आपण तिन्ही फाइल्सची लिस्ट तयार केली आहे
+# 📂 फाईल्सची नावे बरोबर केली आहेत (.txt)
 FILES = ["pyq_data/pyq.txt", "pyq_data/Marathi.txt", "pyq_data/English.txt"]
 BATCH_SIZE = int(os.getenv("BATCH_SIZE", "1"))  # eg. 10 morning / 10 evening
 
@@ -46,11 +48,9 @@ def parse_questions(text):
             else:
                 poll_q = f"➤ {raw_q}"
 
-            questions.append({
-                "poll": poll_q,
-                "options": options,
-                "correct": correct
-            })
+            questions.append(
+                {"poll": poll_q, "options": options, "correct": correct}
+            )
 
     return questions
 
@@ -63,7 +63,7 @@ def send_poll(q, options, correct):
         "options": options,
         "type": "quiz",
         "correct_option_id": correct,
-        "is_anonymous": True
+        "is_anonymous": True,
     }
     r = requests.post(url, json=payload)
     print(r.text)
@@ -75,10 +75,12 @@ all_questions = []
 
 # 🔄 तिन्ही फाइल्स एक-एक करून वाचण्यासाठी लूप
 for file_path in FILES:
-    if os.path.exists(file_path): # फाइल अस्तित्वात आहे की नाही हे चेक करण्यासाठी
+    if os.path.exists(file_path):  # फाइल अस्तित्वात आहे की नाही हे चेक करणे
         with open(file_path, "r", encoding="utf-8") as f:
             file_questions = parse_questions(f.read())
-            all_questions.extend(file_questions) # सर्व प्रश्न एकाच लिस्टमध्ये एकत्र केले
+            all_questions.extend(
+                file_questions
+            )  # सर्व प्रश्न एकाच लिस्टमध्ये एकत्र केले
             print(f"Loaded {len(file_questions)} questions from {file_path}")
     else:
         print(f"⚠️ Warning: File not found -> {file_path}")
