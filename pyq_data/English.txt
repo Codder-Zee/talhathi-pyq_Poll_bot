@@ -196,3 +196,813 @@ A: (1) were
 B: (2) are
 C: (3) is
 D: (4) was *
+Z: संदर्भ: (MPSC Translator C - 2025)
+Q: (a) The host and the hostess were kind to us. (b) A course of lectures were delivered. (c) Each of these qualities is to be found in him. (d) The committee is divided in their opinions. Identify the incorrect sentence: Options:
+A: (1) Only (b) and (d) *
+B: (2) Only (a), (b) and (d)
+C: (3) Only (b) and (c)
+D: (4) Only (a) and (d)
+Z: संदर्भ: (MPSC Translator C - 2025)
+Q: 'Fresh milk is wholesome.' The word underlined in the simple sentence above is the _____ of the subject. (a) attribute (b) complement (c)extension (d) predicate part Options:
+A: (1) (d) only
+B: (2) (a) only *
+C: (3) (c) only
+D: (4) (b) only
+Z: संदर्भ: (Dept.ASO 2024)
+Q: A sentence which has only one Subject and one Predicate is called a/an ____ sentence. Options:
+A: (1) Assertive
+B: (2) Compound
+C: (3) Simple *
+D: (4) Complex
+Z: संदर्भ: (Group C 2024)
+Q: Spot the part in which there is error in the following sentence: 'The cost of /all the necessaries/have/ gone up.' a b c d
+A: (1) Only (d)
+B: (2) Only (a)
+C: (3) Only (b)
+D: (4) Only (c) *
+Z: संदर्भ: (Group B- 2024)
+Q: A simple sentence has only one subject and one ____. (a) structure (b) pattern (c) predicate (d) sentence-order
+A: (1) (d) only
+B: (2) (c) only *
+C: (3) (a) only
+D: (4) (b) only
+Z: संदर्भ: (Group B- 2024)
+Q: (a) Neither pride nor prejudice affect him. (b) Each of these qualities is to be found in him. (c) Either he or I am to be blamed. Identify the correct sentence/s given above.
+A: (1) Only (a) and (b)
+B: (2) Only (b) and (c) *
+C: (3) Only (c)
+D: (4) Only (a) and (c)
+Z: संदर्भ: (राज्यसेवा 2024)
+Q: Identify type of concord in the following sentence: Bread and butter is the main concern of the common man. (a) grammatical concord. (b) notional concord. (c) principle of proximity. (d) verb concord.
+A: (1) (d) only
+B: (2) (a) and (b) only
+C: (3) (b) only *
+D: (4) (a) and (c) only
+Z: संदर्भ: (राज्यसेवा 2023)
+Q: Identify the auxiliary verbs and lexical verbs in the given sentences. (I) Be there at 8 o' clock. (II) I have had my breakfast. (III) Do come in. (IV) Are you doing computer science at college? I II III IV
+A: 1 be-lexical have-auxiliary had-lexical do-auxiliary come-lexical are-auxiliary doing-lexical *
+B: 2 be-auxiliary have-auxiliary had-auxiliary do-auxiliary come-lexical are-lexical doing-lexical
+C: 3 be-lexical have-lexical had-lexical do-lexical come-lexical are-auxiliary doing-lexical
+D: 4 be-lexical have-lexical had-auxiliary do-lexical come-auxiliary are-auxiliary doing-auxiliary
+Z: संदर्भ: (राज्यसेवा 2023)
+Q: Identify the correct sentence/s (a) Either he or you are going to pay the damages. (b) Each of the offenders have to be punished. (c) The whole group of pedestrians was stuck by the speeding vehicle.
+A: (1) Only (a) and (b)
+B: (2) Only (b) and (c)
+C: (3) Only (a) and (c) *
+D: (4) Only (c)
+Z: संदर्भ: (Group B -2023)
+Q: Identify the clause elements in the given sentence. 'They call me the Texas Ranger.'
+A: (1) SPOA
+B: (2) SPOC *
+C: (3) SPAO
+D: (4) SPCA
+Z: संदर्भ: (Group B -2023)
+Q: Choose the incorrect sentence/s from the following (a) Joseph is very clever. (b) My father is a farmer. (c) Character, and not looks, matter in the long run. (d) While working with others, we have to help each other.
+A: (1) (a) only
+B: (2) (b) and (c) only
+C: (3) (c) only
+D: (4) (c) and (d) *
+Z: संदर्भ: (Group C- 2021)
+Q: Identify the functions (SPOCA) of the underlined words in the following sentences and choose the correct option for their sequence. (a) Your daughter is pretty. (b) He made his wife happy. (c) He had given the girl an apple. (d) He had given the girl an apple. (Cs = subject Complement, A- Adverb, Oi Indirect object, Od = Direct object, Co= Object Complement) Answer Options:
+A: (1) Cs, A, Oi, Od
+B: (2) Co, Oi, Od, Cs
+C: (3) Od, Cs, Oi, Co
+D: (4) Cs, Co, Od, Oi *
+Z: संदर्भ: (Group C- 2021)
+Q: Identify the correct sentence/s. (a) Each of the boys have finished his work. (b) Many a men was killed in the war. (c) Neither of the three is present here. Answer Options:
+A: (1) Only (a) and (c)
+B: (2) Only (b)
+C: (3) Only (c) *
+D: (4) Only (b) and (c)
+Z: संदर्भ: (Group B- 2021)
+Q: Choose the correct sentence: (a) The ship was wrecked and every man, woman and child was drowned. (b) The ship was wrecked and every man, woman and child were drowned. (c) The ship was wrecked and every man, woman and child are drowned. (d) The ship was wrecked and every man, woman and child had drowned. Answer options:
+A: (1) both (a) and (d)
+B: (2) (b) only
+C: (3) (c) Only
+D: (4) (a) Only *
+Z: संदर्भ: (Group B- 2021)
+Q: Read the sentences carefully and choose a correct answer from the options given below: (a) Milk and honey are a nourishing food. (b) Milk and honey is a nourishing food. Answer options:
+A: (1) Only (a) is correct
+B: (2) Only (b) is correct *
+C: (3) Both (a) and (b) are correct
+D: (4) Both (a) and (b) are incorrect
+Z: संदर्भ: (राज्यसेवा-2021)
+Q: Lincoln, President of America, was assassinated. The subject-attribute in the simple sentence above is ____. (a) President of America (b) assassinated (c) Was assassinated (d) Lincoln Answer Options:
+A: (1) Only (d)
+B: (2) Only (b)
+C: (3) Only (c)
+D: (4) Only (a) *
+Z: संदर्भ: (Forest Pre 2019)
+Q: 'Do' is a lexical verb and as.......... has the full range of forms, including the present participal 'doing' and the past participal 'done'. Fill in the blank with correct word from the following.
+A: (1) Pro-verb
+B: (2) Main-verb *
+C: (3) Gerund
+D: (4) Modal
+Z: संदर्भ: (Group- B 2019)
+Q: Point out the incorrect sentence.
+A: (1) Each bush and each tree has the right to grow in the ground.
+B: (2) Neither Ram nor Shyam have sympathy for the poor parents. *
+C: (3) Shanti and Sumati go hand in hand.
+D: (4) Either Soni or Rani has broken these bangles.
+Z: संदर्भ: (Group C-2018)
+Q: Tell, whether the following sentence sentences is /are right or wrong (a) Peace and prosperity is our ideal. (b) I as well as they am tired of this routine work.
+A: (1) Only (a) is right
+B: (2) Only (b) is right
+C: (3) Both (a) and (b) are wrong
+D: (4) Both (a) and (b) are right *
+Z: संदर्भ: (Group C-2018)
+Q: Which one of the given options is correct about the given sentence? 'Either she or they have to attend the meeting.'
+A: (1) Right *
+B: (2) Wrong
+C: (3) Use of they in the sentence is wrong
+D: (4) Verb 'have' should be 'has'
+Z: संदर्भ: (Group B-2018)
+Q: Which items from the given sentence contain errors? Everybody must paid more house rent; the tax on property have gone up.
+A: (1) Everybody, must paid.
+B: (2) Must paid, have gone up. *
+C: (3) More, house rent.
+D: (4) Tax on, must paid.
+Z: संदर्भ: (राज्यसेवा-2018)
+Q: Choose the incorrect sentences: (a) Each of the candidates are well qualified. (b) Neither of those choices were attractive. (c) My family are punctual and hard-working people
+A: (1) (a) only
+B: (2) (a) and (c) only
+C: (3) (a) and (b) only *
+D: (4) (a) (b) and (c)
+Z: संदर्भ: (STI-2018)
+Q: The ship was wrecked and every man, woman and child ____ drowned. The verb that agrees correctly with the subject in the sentence above is.
+A: (1) Was *
+B: (2) Were
+C: (3) Had
+D: (4) Had been
+Z: संदर्भ: (Excise - 2017)
+Q: In which of the following sentence does the subject agree correctly with the verb?
+A: (1) The cat, unlike dogs, has soft paws. *
+B: (2) The cat, unlike dogs, have soft paws.
+C: (3) The cat, unlike dogs, is having soft paws.
+D: (4) The cat, unlike dogs, had soft paws.
+Z: संदर्भ: (राज्यसेवा - 2017)
+Q: Identify the correct sentence/s (a) The ship was wrecked and every man, woman and child was drowned. (b) The ship was wrecked and every man, woman and child were drowned. (c) The ship was wrecked and every man, woman and child had drowned.
+A: (1) Only (b)
+B: (2) Only (c)
+C: (3) Only (a) *
+D: (4) Both (b) and (c)
+Z: संदर्भ: (TAX ASST. 2017)
+Q: Identify the unit in which there is an error: There is several reasons for your mistakes. (a) (b) (c)
+A: (1) Only - (a) *
+B: (2) Only- (b)
+C: (3) Only-(c)
+D: (4) No error
+Z: संदर्भ: (PSI-2017)
+Q: Identify the incorrect part of the sentence below: He hopes that he hasn't makes a mistake.
+A: (1) Hopes
+B: (2) Hasn't
+C: (3) Makes *
+D: (4) That
+Z: संदर्भ: (राज्यसेवा मुख्य -2017)
+Q: Fill in the blanks from the alternatives given below: (a) Barley, wheat and rice __ cereals. (b) Twenty miles __ not a great distance in these days of rapid travel.
+A: (1) is, is
+B: (2) is, are
+C: (3) are, is *
+D: (4) are, are
+Z: संदर्भ: (TAX ASST-2017)
+Q: Choose the correct option to fill in the blanks in the following sentences. (a) Ten pounds __ a lot of money. (b) Twenty miles __ not a great distance in these day of rapid travel. (c) There ____ eggs and bacon for breakfast.
+A: (1) Are, is, is
+B: (2) Is, is, is *
+C: (3) Are, are, are
+D: (4) Is, are, is
+Z: संदर्भ: (TAX ASST-2017)
+Q: Find out the incorrect sentence from the following:
+A: (1) Fifty thousand rupees is a big amount.
+B: (2) Ten miles are not a short distance. *
+C: (3) Five years is a long period.
+D: (4) One of the books is damaged.
+Z: संदर्भ: (ASO-2017)
+Q: Choose the correct alternatives to fill in the blanks in the given sentences. (a) I __ spoken to him on the subject many times. (b) I __ speaking to him for ten minutes.
+A: (1) Have, have been *
+B: (2) Have been, Have
+C: (3) Have, Have
+D: (4) Did, have been
+Z: संदर्भ: (Excise-2017)
+Q: Select the grammatically correct sentence/s. (a) Each of the employees were given bonus. (b) Each of the employees was given bonus. (c) Neither of the accusations is true. (d) Neither of the accusations are true.
+A: (1) Only (a) and (c)
+B: (2) Only (b) and (d)
+C: (3) Only (b) and (c) *
+D: (4) Only (a) and (d)
+Z: संदर्भ: (PSI-2017)
+Q: Identify the correct sentences:
+(a) Two pounds of coffee cost seven and six pence.
+(b) The furnitures are to be delivered today.
+(c) He gave me many good advices.
+A: (1) (a) only
+B: (2) (b) and (c) only
+C: (3) (a), (b) and (c)
+D: (4) None of the above *
+Z: संदर्भ: (PSI-2017)
+Q: Identify the incorrect sentence/s.
+(a) A course of lectures was delivered.
+(b) Silver as well as gold is used for ornaments.
+A: (1) Only (a)
+B: (2) Only (b)
+C: (3) Both
+D: (4) Neither *
+Z: संदर्भ: (PSI-2017)
+Q: Choose the correct sentence
+A: (1) The costs of all necessaries has gone up.
+B: (2) The cost of all necessaries has gone up. *
+C: (3) The cost of all necessaries have gone up.
+D: (4) The costs of all necessaries have went up.
+Z: संदर्भ: (STI - 2017)
+Q: Choose the class of the underlined words.
+After he had drunk (I) the whisky, the drunk (II) was very drunk (III) indeed.
+A: (1) a d c
+B: (2) b c d
+C: (3) c b a *
+D: (4) d a b
+Z: संदर्भ: (Clerk -2017)
+Q: Choose the correct option:
+Sheela as well as Leela _ absent.
+A: (1) Are
+B: (2) Was *
+C: (3) Were
+D: (4) Be
+Z: संदर्भ: (Dept. Edu. officer 2017)
+Q: Fill in the blanks:
+A.His idealism and devotion to duty ___ him to respect.
+B. Pen and ink _ been displaced by the ballpoint.
+A: (1) Entitles, have
+B: (2) Entitle, has *
+C: (3) Entitle, have
+D: (4) Entitles, has
+Z: संदर्भ: (STI-2017)
+Q: Choose the correct option to fill in the blanks in the given sentences.
+(a) When _ Lalita take her teaching degree?
+(b) Which school _ she go to first?
+A: (1) Does, did
+B: (2) Did, did *
+C: (3) Did, does
+D: (4) Has, did
+Z: संदर्भ: (Dept. PSI 2016)
+Q: Kindly help me.
+The above sentence is
+A: (1) Assertive
+B: (2) Imperative *
+C: (3) Interrogative
+D: (4) Exclamatory
+Z: संदर्भ: (राज्यसेवा-2016)
+Q: Fill in the blank space with the most suitable among the given options:
+The matter could easily have been resolved, but neither his friends nor he _ ready for any compromise.
+A: (1) Is
+B: (2) Was *
+C: (3) Are
+D: (4) Were
+Z: संदर्भ: (राज्यसेवा-2016)
+Q: In which one of the following sentences does the subject agree correctly with the verb?
+A: (1) Each man and each woman has a vote. *
+B: (2) Each man and each woman have a vote.
+C: (3) The ship was wrecked and every man, woman and child were drowned.
+D: (4) The ship was wrecked and every man, woman and child had drowned.
+Z: संदर्भ: (Forest - 2016)
+Q: Put the correct verb in the blank:
+The rise and fall of the tide_ due to lunar influence.
+A: (1) Are
+B: (2) Is *
+C: (3) Are not
+D: (4) Have
+Z: संदर्भ: (TAX ASST - 2016)
+Q: Fill in the blank with the answer options given below:
+Either the children or the milkman _ knocking at the door.
+A: (1) Are
+B: (2) Is *
+C: (3) Were
+D: (4) Have
+Z: संदर्भ: (ASO-2016)
+Q: Fill in the blank from the given option.
+The united states ___ highly advanced in science and technology.
+A: (1) Is *
+B: (2) Are
+C: (3) Were
+D: (4) Have been
+Z: संदर्भ: (ASO - 2016)
+Q: Identify the correct sentence:
+(a) The host and the hostess were kind to us.
+(b) Bread and butter is my favourite food.
+A: (1) Only (a) is correct.
+B: (2) Only (b) is correct.
+C: (3) Both (a) and (b) are correct. *
+D: (4) Both (a) and (b) are incorrect.
+Z: संदर्भ: (Engg. Pre.-2015)
+Q: Choose an appropriate verb from that agrees with the subject.
+'The General with all his soldiers _ killed.'
+A: (1) Has been
+B: (2) Have been
+C: (3) Are
+D: (4) Were *
+Z: संदर्भ: (ASO-2015)
+Q: Identify the correct verb agreement:
+The introduction of English, Marathi and other regional languages __profound effect on the students linguistic competence.
+A: (1) Has had *
+B: (2) Have had
+C: (3) Are
+D: (4) Have
+Z: संदर्भ: (STI-2015)
+Q: Choose the correct sentences:
+(a) Bread and milk is his only food.
+(b) The horse and carriage is at the door.
+(c) Every boy and girl was ready.
+A: (1) (a) only
+B: (2) (a) and (b) only
+C: (3) (a), (b) and (c) *
+D: (4) None of the the above
+Z: संदर्भ: (STI-2015)
+Q: Identify incorrect sentence/s:
+(a) The basket of apples and pears were hanging from a hook.
+(b) This must be one of the best plays that has been staged at Stratford this season.
+(c) Each of the candidates are well qualified.
+A: (1) (a) only
+B: (2) (a) and (b)
+C: (3) (b) and (c)
+D: (4) (a), (b), and (c) *
+Z: संदर्भ: (Dept.STI-2015)
+Q: (I) Either Ravi or Mohan have done his work.
+(II) You who is more lethargic than she.
+Identify the correct sentence.
+A: (1) Only I is correct
+B: (2) Only II is correct
+C: (3) Both I and II are correct
+D: (4) Both I and II are incorrect *
+Z: संदर्भ: (TAX ASST-2015)
+Q: (a) Some of the TV serial is worth watching today.
+(b) Some of the TV serials are worth watching today.
+(c) None of the TV serials is worth watching today.
+(d) None of the TV serials are worth watching today.
+The grammatically incorrect sentences among these are.
+A: (1) (a) and (d)
+B: (2) (a) and (b)
+C: (3) (c) and (d)
+D: (4) (b)and (c) *
+Z: संदर्भ: (Clerk - 2015)
+Q: Identify the correct sentence (s).
+(a) The minister accompanied by his officers, is visiting the town tomorrow.
+(b) Each of the employees was given a bonus.
+A: (1) only (a) is correct
+B: (2) only (b) is correct
+C: (3) both (a) and (b) are correct *
+D: (4) both (a) and (b) are incorrect
+Z: संदर्भ: (Clerk -2014)
+Q: Identify grammatically correct sentence (s)
+(a) Every man and woman is welcome.
+(b) Neither of the two boys were successful.
+A: (1) Only (a) is correct. *
+B: (2) Only (b) is correct.
+C: (3) Bothe (a) and (b) are correct.
+D: (4) Both (a) and (b) are incorrect.
+Z: संदर्भ: (PSI-2014)
+Q: Identify the grammatically correct sentence/s?
+(a) None of the brothers has their father's talents.
+(b) None of the brothers have their father's talents.
+(c) None of the brothers had their father's talents.
+(d) None of the brother's had their father's talents.
+A: (1) Only (a) and (c) correct
+B: (2) Only (b) and (d) correct
+C: (3) Only (a), (b) and (c) are correct *
+D: (4) All correct
+Z: संदर्भ: (STI - 2014)
+Q: Pick out the correct sentence from the given alternatives.
+(1) The fleet have set sail.
+(2) John as well as James deserve praise.
+(3) You, who is my friend, should not worry me.
+(4) She is one of the best mothers that have ever lived. *
+Z: संदर्भ: (STI-2014)
+Q: Identify the correct sentence/s:(STI-2014)
+(a) Fish and chips is not my favourite meal.
+(b) Pen and ink has been displaced by the ballpoint.
+(c) Bread and water was the vagrant's staple diet in prison.
+A: (1) (a) only
+B: (2) (a) and (b) only
+C: (3) (a), (b) and (c)
+D: (4) (a) and (c) only *
+Z: संदर्भ: (STI-2014)
+Q: Which of the following sentences are correct?
+(a) The tallest of the players was injured.
+(b) The man in charge of the workers was called Rajan
+(c) Ram as well as Shyam were present.
+(d) The manager, along with several assistants, was present at the ceremony.
+A: (1) Only (a) and (b) are correct
+B: (2) Only (b) and (c) are correct
+C: (3) Only (a) and (c) are correct
+D: (4) Only (a), (b) and (d) are correct *
+Z: संदर्भ: (STI-2014)
+Q: (a) The tallest of the players was injured.
+(b) Ram as well as Shyam was present.
+Identify the correct sentences.
+A: (1) Only a is correct
+B: (2) Only b is correct
+C: (3) Both a and b are correct *
+D: (4) Both a and b are incorrect
+Z: संदर्भ: (Clerk-2014)
+Q: Fill in the blank with an acceptable form of the verb given in the options.
+350 runs _ quite a decent score.
+A: (1) Is *
+B: (2) Are
+C: (3) Are being
+D: (4) Was become
+Z: संदर्भ: (Dept.STI-2014)
+Q: Fill in the blank with the right form of the verb given in the brackets.
+The long festering issue of domestic helpers who are employed by the native Arabs _ (create) a lot of animus among the two communities.
+A: (1) Are creating
+B: (2) Were creating
+C: (3) Create
+D: (4) Has created *
+Z: संदर्भ: (Clerk-2014)
+Q: In the following sentence choose the part in which you find a mistake.
+Either of the two (a) were (b) supposed to be (c) present in the office.(d)
+A: (1) (a)
+B: (2) (b) *
+C: (3) (c)
+D: (4) (d)
+Z: संदर्भ: (Clerk - 2014)
+Q: Choose the incorrect sentence
+A: (1) We did believe it.
+B: (2) We did not believe it.
+C: (3) We did not believed it. *
+D: (4) We believed it.
+Z: संदर्भ: (ASO -2013)
+Q: Choose the correct alternative:
+I (am to leave, would leave, was to leave, was to have left) on Thursday. But on Thursday I had a terrible cold. So decided to wait till Saturday.
+A: (1) Am to leave
+B: (2) Would leave
+C: (3) Was to leave
+D: (4) Was to have left *
+Z: संदर्भ: (Engi.pre. 2013)
+Q: Pick out the correct usage.
+A: (1) A large number of ladies has become officers.
+B: (2) A large number of ladies have become officers. *
+C: (3) A large number of ladies are become officers.
+D: (4) A large number of ladies were become officers.
+Z: संदर्भ: (STI-2013)
+Q: Identify the unit in which there is an error:
+A group of yachts (a) with brightly coloured banners flying in the wind (b) /are entering the harbor (c)
+A: (1) Only (a)
+B: (2) Only (b)
+C: (3) Only (c) *
+D: (4) No error
+Z: संदर्भ: (Clerk -2013)
+Q: The three primary auxiliaries are:
+A: (1) Be, have, do *
+B: (2) can, could, would
+C: (3) May, might, must
+D: (4)aught,ought, nought
+Z: संदर्भ: (Engi. pre. -2013)
+Q: The culprits (be) very dangerous.
+Use appropriate form of the verb in bracket, in simple past.
+A: (1) Was
+B: (2) Were *
+C: (3) Are
+D: (4) Been
+Z: संदर्भ: (STI-2013)
+Q: Identify the grammatically correct sentences/s:
+(a) Except for her eyes, none of her features is remarkable.
+(b) Except for her eyes, none of her features are remarkable.
+(c) Except for her eyes, none of her features was remarkable.
+(d) Except for her eyes, none of her features were remarkable.
+A: (1) Only (a) and (c) are correct
+B: (2) Only (b) and (d) are correct
+C: (3) All are correct *
+D: (4) None is correct
+Z: संदर्भ: (Engi. pre. -2013)
+Q: Either his brothers or his father ____ (do) this work.
+Fill in the blank with an acceptable form of the verb given in the bracket.
+A: (1) Is done
+B: (2) Was done
+C: (3) Has done *
+D: (4) Have done
+Z: संदर्भ: (PSI-2013)
+Q: The rich is not always dishonest. Which of the following options will be used in place of the underlined part of the sentence to correct it?
+A: (1) Was
+B: (2) Will
+C: (3) Are *
+D: (4) Can
+Z: संदर्भ: (MPSC Agri Pre 2012)
+Q: Select the correct sentence/sentences. (1) I am ill since three days. (2) I have been ill for three days. (3) I have been ill since Friday.
+A: (1) I am ill since three days.
+B: (2) I have been ill for three days.
+C: (3) I have been ill since Friday.
+D: (4) Both (2) and (3) *
+Z: संदर्भ: (STI-2012)
+Q: Many a hill _ crossed by the battalion. Choose the correct option to fill in the blank.
+A: (1) was *
+B: (2) were
+C: (3) may
+D: (4) none of these
+Z: संदर्भ: (PSI-2012)
+Q: One of my friends ___ national champion in archery. Fill in the blank with the suitable verbs from.
+A: (1) is *
+B: (2) are
+C: (3) were
+D: (4) are not
+Z: संदर्भ: (ASO-1994) (Engi. Pre. -2012)
+Q: Which of the following sentences are correct? Repeated (a) Either the workers or the director is to blame for this. (b) No person of that name live here. (c) Either the director or the workers are to blame for this. (d) I have ordered the cement but none have yet arrived. Which of the above is/ are the correct sentences?
+A: (1) (a) and (c) only *
+B: (2) (b) and (d) only
+C: (3) (a) and (b) only
+D: (4) (c) and (d) only
+Z: संदर्भ: (STI-2012)
+Q: Identify the incorrect sentence from the following alternatives.
+A: (1) Bread and butter is a wholesome food.
+B: (2) Two pounds of coffee costs seven and six pence.
+C: (3) There are eggs and bacon for breakfast. *
+D: (4) John and Mary have gone for a holiday.
+Z: संदर्भ: (ASO-2011)
+Q: Choose the correct sentence from the following:
+A: (1) Neither of the two boys were successful in the examination.
+B: (2) Neither of the both boys were successful in the examination.
+C: (3) Neither of the two boys are successful in the examination.
+D: (4) Neither of the two boys is successful in the examination. *
+Z: संदर्भ: (Agri Pre 2011)
+Q: Neither the boy nor his sister........... to school. Choose the best alternative:
+A: (1) are going
+B: (2) go
+C: (3) goes *
+D: (4) will go
+Z: संदर्भ: (Agri Pre 2011)
+Q: Choose the correct form of the verb 'The ship along with its crew ............lost'.
+A: (1) were
+B: (2) must
+C: (3) was *
+D: (4) need
+Z: संदर्भ: (Dept.STI-2011)
+Q: We shouted several times, but there ____ no answer Choose the proper option to fill in the blank.
+A: (1) is
+B: (2) are
+C: (3) was *
+D: (4) were
+Z: संदर्भ: (Dept.PSI-2011)
+Q: Choose the correct form of a verb from the following to fill in the blank. Each of the students ____ given a pencil.
+A: (1) was *
+B: (2) were
+C: (3) are
+D: (4) shall
+Z: संदर्भ: (Dept.PSI-2011)
+Q: Choose the correct sentence of the following:
+A: (1) Neither of these books is mine. *
+B: (2) Neither of these books are mine
+C: (3) Neither of these books were mine.
+D: (4) Neither of these books mine.
+Z: संदर्भ: (PSI-2011)
+Q: Police ___looking for a man with one eye. Choose the correct verb to agree with the subject.
+A: (1) is
+B: (2) are *
+C: (3) had
+D: (4) has been
+Z: संदर्भ: (PSI-2010)
+Q: It is a terribly hot climate. Identify the parts of speech of the underlined words.
+A: (1) Main verb, Adjective, Adverb
+B: (2) Aux verb, Adverb, Adjective
+C: (3) Main verb, Adverb, Adjective *
+D: (4) Aux verb, Adjective, Adverb
+Z: संदर्भ: (Engg. Pre.-2016) (PSI-2010)repeated
+Q: The general with all his soldiers ____ killed. Which of the following options can fill in the blank in the above sentence.
+A: (1) were
+B: (2) are
+C: (3) is
+D: (4) was *
+Z: संदर्भ: (PSI-2010)
+Q: Each of the two candidates____paid his subscriptions. Fill in the blank with one of the following options given.
+A: (1) are
+B: (2) has *
+C: (3) have
+D: (4) were
+Z: संदर्भ: (PSI-2010)
+Q: The teachers or the student ____ wrong. Choose from the following options to fill in the blank in the above sentence.
+A: (1) were
+B: (2) are
+C: (3) will
+D: (4) is *
+Z: संदर्भ: (PSI-2010)
+Q: Either your eyesight or your brakes ____ bad. Which of the following options can correctly fill in the blank:
+A: (1) are *
+B: (2) is
+C: (3) was
+D: (4) None
+Z: संदर्भ: (PSI-2010)
+Q: Many a flower____ born to blush unseen. Which of the following options correct to fill in the blank:
+A: (1) are
+B: (2) is *
+C: (3) will
+D: (4) were
+Z: संदर्भ: (PSI-2010)
+Q: A crowd of university students ____ surrounded the Voice-Chancellor. Which of the following options is correct fill in the blank:
+A: (1) has *
+B: (2) have
+C: (3) did
+D: (4) were
+Z: संदर्भ: (PSI-2009)
+Q: Neither he nor his brother ____ there. Which of the following alternatives would fill in the blank:
+A: (1) were
+B: (2) was *
+C: (3) are
+D: (4) will
+Z: संदर्भ: (Eng. Pre.-2008)
+Q: fill in the blank with appropriate verb form the option given below: A large number of people ____ for a job in Robins Company, as per the reports published in today's Express Towers.
+A: (1) has applied
+B: (2) have applied *
+C: (3) have been applied
+D: (4) had applied
+Z: संदर्भ: (ASO -2008)
+Q: Fill in the blank. She ____ unconscious since four O'clock.
+A: (1) is
+B: (2) was
+C: (3) will
+D: (4) has been *
+Z: संदर्भ: (Clerk-2007)
+Q: Ten miles ____ a long way to walk. Choose the correct form of the verb in present tense from the following.
+A: (1) be
+B: (2) are
+C: (3) am
+D: (4) is *
+Z: संदर्भ: (Clerk-2007)
+Q: The birds have ____ to the south. Choose the correct verb form the following alternatives to fill in the blank.
+A: (1) flew
+B: (2) flow
+C: (3) fly
+D: (4) flown *
+Z: संदर्भ: (PSI-2006)
+Q: Fill in the blank with correct alternative: One of the students ____ absent in the class yesterday.
+A: (1) are
+B: (2) was *
+C: (3) were
+D: (4) is
+Z: संदर्भ: (ASO - 2006)
+Q: Which form of the verb agrees with the subject in the following expression? The crowd outside the palace gates ____ enormous.
+A: (1) were
+B: (2) was *
+C: (3) are
+D: (4) look
+Z: संदर्भ: (STI-2001)
+Q: Fill in the blank with the correct alternative. One of my friends ____ a fine collection of postage stamps.
+A: (1) has *
+B: (2) have
+C: (3) had been
+D: (4) having
+Z: संदर्भ: (PSI-2001)
+Q: Complete the sentence with a suitable verb form. The police ____ of theft recently.
+A: (1) have heard *
+B: (2) will hear
+C: (3) hear
+D: (4) would have heard
+Z: संदर्भ: (PSI-1997)
+Q: Fill in the blank with the correct verb form: Wheat and rice ____ cereals.
+A: (1) is
+B: (2) were
+C: (3) have
+D: (4) are *
+Z: संदर्भ: (STI-1997)
+Q: Choose the correct alternative to fill the blank. Good advice ___ not always needed.
+A: (1) was
+B: (2) has
+C: (3) is *
+D: (4) had
+Z: संदर्भ: (STI-1997)
+Q: Pick out the correct sentence from the following:
+A: (1) Ten miles are a long distance
+B: (2) Ten miles were a long distance
+C: (3) Ten miles is a long distance *
+D: (4) Ten miles are a long distances
+Z: संदर्भ: (STI-1997)
+Q: James as well as John____ praise.
+A: (1) deserve
+B: (2) was deserving
+C: (3) deserves *
+D: (4) deserved
+Z: संदर्भ: (PSI-1993)
+Q: Choose the correct verb to fill in the blank: No one of these girls ____ present there.
+A: (1) is
+B: (2) are
+C: (3) was *
+D: (4) were
+Z: संदर्भ: (PSI-1993)
+Q: Choose the correct verb to fill in the blank: Beauty and folly ____ generally companions.
+A: (1) is
+B: (2) was
+C: (3) had
+D: (4) are *
+Z: संदर्भ: (PSI-1991)
+Q: Choose the correct clause to complete following sentence. Neither of the boys ____
+A: (1) was good *
+B: (2) were good
+C: (3) are good
+D: (4) be good
+Z: संदर्भ: (PSI-1991)
+Q: Choose the correct form of the verb to complete the following sentence: Rama and Hari __ brothers.
+A: (1) Is
+B: (2) was
+C: (3) are *
+D: (4) none of these
+Z: संदर्भ: (PSI - 1991)
+Q: Fill in the blanks with suitable form of verbs. He had ___ to school.
+A: (1) went
+B: (2) gone *
+C: (3) come
+D: (4) reached
+Z: संदर्भ: (PSI-1991)
+Q: Use correct verb to complete the given sentence. Raja _ going with Ramesh to the post office.
+A: (1) is *
+B: (2) are
+C: (3) will
+D: (4) were
+Z: संदर्भ: (PSI-1991)
+Q: Each of (A)/ the two (B)/ sisters were (C) / hard working (D)
+A: (1) A
+B: (2) B
+C: (3) C *
+D: (4) D
+Z: संदर्भ: (PSI-1989)
+Q: He as well as his brother (A)/were here (B) /for their dinner (C)/No error(D)
+A: (1) A
+B: (2) B *
+C: (3) C
+D: (4) D
+Z: संदर्भ: (PSI-1988)
+Q: Choose the correct verb to fill in the blank: Shri Rama as well as Sita ____ visiting the town.
+A: (1) is *
+B: (2) are
+C: (3) were
+D: (4) would
+Z: संदर्भ: (PSI-1988)
+Q: Choose the correct verb to fill in the blank: He as well as his assistants __ coming.
+A: (1) is *
+B: (2) are
+C: (3) have been
+D: (4) were
+Z: संदर्भ: (PSI-1988)
+Q: Choose the correct verb to fill in the blank: Each one of our houses ____ to let.
+A: (1) is *
+B: (2) are
+C: (3) were
+D: (4) would
+Z: संदर्भ: (PSI-1988)
+Q: Choose the correct verb to fill in the blank: One of our players _ injured.
+A: (1) is *
+B: (2) are
+C: (3) were
+D: (4) got
+Z: संदर्भ: (PSI - 1988)
+Q: Curry and samosa are (A)/ the favourite (B) / food of Panjabis (C)/No error(D)
+A: (1) A *
+B: (2) B
+C: (3) C
+D: (4) D
+Z: संदर्भ: (PSI - 1988)
+Q: The Captain with all the crew (A)/were (B)/ drowned (C)/No error (D)
+A: (1) A
+B: (2) B *
+C: (3) C
+D: (4) D
+Z: संदर्भ: (PSI-1987)
+Q: News of death (A)/ of my close friend (B) were hard to (C)/be believed. (D)
+A: (1) A
+B: (2) B
+C: (3) C *
+D: (4) D
+Z: संदर्भ: (PSI-1987)
+Q: Aluminium (A)/ as well as (B)/zinc are found (C)/in India. (D)
+A: (1) A
+B: (2) B
+C: (3) C *
+D: (4) D
+Z: संदर्भ: (PSI-1987)
+Q: Choose the correct verb to fill in the blank: Forty miles____quite a long distance.
+A: (1) is *
+B: (2) are
+C: (3) by
+D: (4) for
+Z: संदर्भ: (PSI-1987)
+Q: Choose the correct verb to fill in the blank: Neither he nor I ____ coming.
+A: (1) is
+B: (2) am *
+C: (3) were
+D: (4) are
+Z: संदर्भ: (PSI-1987)
+Q: Choose the correct verb to fill in the blank: Four Ounces __the smallest quantity.
+A: (1) is *
+B: (2) are
+C: (3) were
+D: (4) have
+Z: संदर्भ: (PSI-1986)
+Q: The best feature (A)/ of the gathering (B)/ that was liked by all (C)/ were the orchestra (D). Find the error in the above sentence:
+A: (1) A
+B: (2) B
+C: (3) C
+D: (4) D *
+Z: संदर्भ: (PSI-1985)
+Q: Not only Manju (A)/but also his brother (B) / is intelligent(C)/ No error. (D) Find the error in the above sentence:
+A: (1) A
+B: (2) B
+C: (3) C
+D: (4) D *
+Z: संदर्भ: (PSI - 1984)
+Q: My father(A)/ along with two brothers(B)/ are leaving Bombay.(C)/ No error (D) Find the error in the above sentence:
+A: (1) A
+B: (2) B
+C: (3) C *
+D: (4) D
