@@ -1,5 +1,6 @@
 import os
 import random
+import re
 import requests
 
 BOT_TOKEN = os.getenv("BOT_TOKEN")
@@ -7,100 +8,53 @@ CHANNEL_ID = os.getenv("CHANNEL_ID")
 
 # 📂 Files che paths (.txt)
 FILES = ["pyq_data/pyq.txt", "pyq_data/Marathi.txt", "pyq_data/English.txt"]
-BATCH_SIZE = int(os.getenv("BATCH_SIZE", "1"))  # eg. 10 morning / 10 evening
+BATCH_SIZE = int(os.getenv("BATCH_SIZE", "10"))  # eg. 10 pyqs randomly selection
 
 
 def parse_questions(text):
-    # 'Z:' chya aadhare split karne (Case-sensitive standard split)
-    raw_blocks = text.split("\nZ:")
-    
-    # Jar file chi survat directly Z: ne jhali asel tar pahila part set karne
-    if text.startswith("Z:"):
-        raw_blocks[0] = text[2:]
-    else:
-        first_part = raw_blocks[0]
-        if "Q:" in first_part:
-            q_splits = first_part.split("\nQ:")
-            if q_splits[0].strip().startswith("Q:"):
-                raw_blocks[0] = q_splits[0][2:]
-            elif len(q_splits) > 1:
-                raw_blocks[0] = "EMPTY_Z\nQ:" + "\nQ:".join(q_splits[1:])
-
     questions = []
 
-    for block in raw_blocks:
-        block = block.strip()
-        if not block:
-            continue
+    # 🔍 Strick Pattern: Jo kontyahi line breaking vr ghabrat nahi.
+    # Z: optional ahe pan to Q: chya agdi vrch pahije.
+    pattern = re.compile(
+        r'(?:^|\n)Z:\s*(.*?)\s*\n\s*Q:\s*(.*?)\s*\n\s*A:\s*(.*?)\s*\n\s*B:\s*(.*?)\s*\n\s*C:\s*(.*?)\s*\n\s*D:\s*(.*?)(?=\n\s*(?:Z:|Q:)|$)',
+        re.DOTALL
+    )
 
-        z_text = ""
-        q_block_raw = block
+    matches = pattern.findall(text)
+    
+    for match in matches:
+        z_text = match[0].strip()
+        raw_q = match[1].strip()
+        opt_a = match[2].strip()
+        opt_b = match[3].strip()
+        opt_c = match[4].strip()
+        opt_d = match[5].strip()
 
-        if "Q:" in block:
-            parts = block.split("\nQ:", 1)
-            if parts[0].strip() != "EMPTY_Z":
-                z_text = parts[0].strip()
-            q_block_raw = "Q:" + parts[1]
-        elif block.startswith("Q:"):
-            q_block_raw = block
-        else:
-            continue
+        # Strict Capital verification - bhighad kitihi aso, aapan check karnar
+        # ki tags original string madhe standard hotya ka
+        options = [opt_a, opt_b, opt_c, opt_d]
+        correct = 0
 
-        # Ekach Z: khali multiple Q: asu शकतात, mhanun sub-split
-        sub_q_blocks = q_block_raw.split("\nQ:")
-        for sub_block in sub_q_blocks:
-            sub_block = sub_block.strip()
-            if not sub_block or sub_block == "Q:":
-                continue
-                
-            if not sub_block.startswith("Q:"):
-                sub_block = "Q:" + sub_block
+        cleaned_options = []
+        for idx, opt in enumerate(options):
+            is_correct = "*" in opt
+            clean_opt = opt.replace("*", "").strip()
+            cleaned_options.append(clean_opt)
+            if is_correct:
+                correct = idx
 
-            # 🚨 STRIKT CASE-SENSITIVE CHECKING 🚨
-            # Fakt '\nA:', '\nB:', '\nC:', '\nD:' asel tarach code pudhe jail
-            # Jar 'a:', 'b:', 'A)' asel tar to skip karel
-            if "\nA:" not in sub_block or "\nB:" not in sub_block or "\nC:" not in sub_block or "\nD:" not in sub_block:
-                continue
+        if len(cleaned_options) == 4:
+            if z_text:
+                poll_q = f"[{z_text}]\n\n➤ {raw_q}"
+            else:
+                poll_q = f"➤ {raw_q}"
 
-            try:
-                # Splitting strictly based on capital tags with newline
-                q_and_a = sub_block.split("\nA:", 1)
-                raw_q = q_and_a[0][2:].strip()  # Q: kadhun main prashna ghene
-
-                a_and_b = q_and_a[1].split("\nB:", 1)
-                opt_a = a_and_b[0].strip()
-
-                b_and_c = a_and_b[1].split("\nC:", 1)
-                opt_b = b_and_c[0].strip()
-
-                c_and_d = b_and_c[1].split("\nD:", 1)
-                opt_c = c_and_d[0].strip()
-                opt_d = c_and_d[1].strip()
-
-                options = [opt_a, opt_b, opt_c, opt_d]
-                correct = 0
-
-                cleaned_options = []
-                for idx, opt in enumerate(options):
-                    is_correct = "*" in opt
-                    clean_opt = opt.replace("*", "").strip()
-                    cleaned_options.append(clean_opt)
-                    if is_correct:
-                        correct = idx
-
-                if len(cleaned_options) == 4:
-                    if z_text:
-                        poll_q = f"[{z_text}]\n\n➤ {raw_q}"
-                    else:
-                        poll_q = f"➤ {raw_q}"
-
-                    questions.append({
-                        "poll": poll_q,
-                        "options": cleaned_options,
-                        "correct": correct
-                    })
-            except Exception:
-                continue
+            questions.append({
+                "poll": poll_q,
+                "options": cleaned_options,
+                "correct": correct
+            })
 
     return questions
 
@@ -139,7 +93,7 @@ if not all_questions:
     print("❌ No questions found in any of the files")
     exit()
 
-# 🔀 Random Sample selection
+# 🔀 Random Selection from ALL 3 FILES COMBINED
 selected = random.sample(all_questions, k=min(BATCH_SIZE, len(all_questions)))
 
 for q in selected:
