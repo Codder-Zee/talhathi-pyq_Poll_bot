@@ -1006,3 +1006,663 @@ A: (1) A
 B: (2) B
 C: (3) C *
 D: (4) D
+Z: संदर्भ: (TAX ASST-2016)
+Q: Spot the incorrect sentence where misrelated participle has been used. (a) After waiting in the queue for ten minutes the bus arrived completely full. (b) After we had been waiting in the queue for ten minutes the bus arrived completely full.
+A: (1) Only (a) *
+B: (2) Only (b)
+C: (3) Both (a) and (b)
+D: (4) Neither (a) nor (b)
+Z: संदर्भ: (TAX ASST-2016)
+Q: Choose the best among the options to fill in the blank: He _ better mind his manners.
+A: (1) Had *
+B: (2) Should
+C: (3) Has
+D: (4) Can
+Z: संदर्भ: (STI - 2016)
+Q: Select the correct sentences. (a) Will you borrow me your pen? (b) I borrowed a pen from my brother. (c) I lent a pen from my brother. (d) Will you lend me your pen?
+A: (1) only (a) and (b) are correct
+B: (2) only (c) and (d) are correct
+C: (3) only (a) and (c) are correct
+D: (4) only (b) and (d) are correct *
+Z: संदर्भ: (राज्यसेवा - 2016)
+Q: Identify the part of speech of the underlined word as it occurs in the sentence: I am very interested in reading thrillers.
+A: (1) Noun *
+B: (2) Verb
+C: (3) Adjective
+D: (4) None
+Z: संदर्भ: (TAX A- 2015)
+Q: Identify incorrect sentence/s. (a) Don't fail coming to the meeting. (b) Have you decided to marry him? (c) We must avoid to smoke.
+A: (1) (a) only
+B: (2) (b) only
+C: (3) (a) and (b) only
+D: (4) (a) and (c) only *
+Z: संदर्भ: (PSI - 2016)
+Q: Identify the correct sentence: (a) She denied that she had gone to the movie last night. (b) She refused that she had gone to the movie last night. (c) She refused to return the money I lent her yesterday. (d) She denied to return the money I lent her yesterday. Answer options:
+A: (1) only (a) and (c) *
+B: (2) only (a) and (d)
+C: (3) only (b) and (d)
+D: (4) only (b) and (c)
+Z: संदर्भ: (TAX A.15)
+Q: "To follow his advice seemed logical." The subject of the above clause is
+A: (1) Infinitive *
+B: (2) Adjective
+C: (3) Adverbial
+D: (4) None of the above
+Z: संदर्भ: (Dept.STI-2014)
+Q: Choose a word from the given options that can be used with different meanings in both the blank spaces below. (a)The entire covey of birds _ upon one single tree. (b) On seeing his daughter, his face _ up.
+A: (1) lit *
+B: (2) sat
+C: (3) shone
+D: (4) landed
+Z: संदर्भ: (STI - 2014)
+Q: Choose a word from the given options that can be used in both the blank spaces below: (a) It _ all night. (b) He _ a cab to take him to office.
+A: (1) Rained
+B: (2) Snowed
+C: (3) Hailed *
+D: (4) Thundered
+Z: संदर्भ: (Clerk - 2013)
+Q: She used to play hide and seek with her girl-friends in her childhood. Which verb-form can be substituted for 'used to' to retain the meaning of this sentence?
+A: (1) Had
+B: (2) Could
+C: (3) Was
+D: (4) Would *
+Z: संदर्भ: (Clerk - 2013)
+Q: Choose the most appropriate word for the blank in the sentence: She learned to _____ when she was eleven.
+A: (1) Sow
+B: (2) So
+C: (3) Sew *
+D: (4) None of these
+Z: संदर्भ: (Engineering Pre - 2013)
+Q: Some words are used as different parts of speech. Say how many of the statements below are true. (i) 'Fast' may be used as noun, adjective, verb and adverb (ii) 'Better' may be used as adjective, verb and adverb. (iii) 'That' may be used as pronoun, adjective and adverb (iv) 'Seat' may be used as noun and verb.
+A: (1) i and iv
+B: (2) ii and iv are true
+C: (3) i, iii and iv are true
+D: (4) All are true *
+Z: संदर्भ: (राज्यसेवा 2024)
+Q: Identify the kind of verb in the given sentence. "He got her a splendid present".
+A: (1) Transitive verb
+B: (2) Intransitive verb
+C: (3) Ditransitive verb *
+D: (4) Complex transitive verb
+Z: संदर्भ: (राज्यसेवा 2023)
+Q: Identify the kind of verb in the given sentence. 'We can lift this load'.
+A: (1) transitive verb, modal verb *
+B: (2) intransitive verb, modal verb
+C: (3) modal verb, transitive verb
+D: (4) transitive verb, transitive verb
+Z: संदर्भ: (राज्यसेवा 2023)
+Q: Identify the part of speech of the underlined words in the given sentences. I. Soft drinks have a high sugar content. II. I was content just to stay at home and read. III. He was planning to desert his family and go abroad. IV. It hasn't rained in the desert for years. I II III IV
+A: (1) Noun Adjective Verb Noun *
+B: (2) Noun Verb Noun Verb
+C: (3) Adjective Adverb Noun Noun
+D: (4) Adverb Adjective Noun Verb
+Z: संदर्भ: (राज्यसेवा 2023)
+Q: Identify the sentences which contain infinitives. (a) To tell the truth, I quite forgot my promise. (b) I saw him go. (c) A rolling stone gathers no mass. (d) Children love making mud castles. (e) I hope you will excuse my leaving early.
+A: (1) a, c, d
+B: (2) b, c, e
+C: (3) a, b, d, e
+D: (4) Only a and b *
+Z: संदर्भ: (Group B -2023)
+Q: i. Please, boil the water. ii. The water is boiling. The underlined verbs in the sentences above belong to the types of verb called ___ and ___ respectively.
+A: (1) Transitive, Transitive
+B: (2) Intransitive, Transitive
+C: (3) Transitive, Intransitive *
+D: (4) Intransitive, Intransitive
+Z: संदर्भ: (Group C-2023)
+Q: Choose the correct sentences (a) Try and come tomorrow. (b) I felt sure he would die and his money would go to his son. (c) The pundit read the first mantra and the bridegroom read the second. Answer Options:
+A: (1) (c) only *
+B: (2) (b) only
+C: (3) (b) and (c) only
+D: (4) (a), (b) and (c)
+Z: संदर्भ: (Group C-2023)
+Q: Identify the verb form of the underlined word in the following sentence. Swimming is a good exercise.
+A: (1) Infinitive
+B: (2) Gerund *
+C: (3) Phrase
+D: (4) Clause
+Z: संदर्भ: (Dept. ASO-2023)
+Q: Choose the correct sentences. (a) He refused to obeyed the orders (b) Many men desire to making money quickly. (c) You dare not do it Options:
+A: (1) (c) only *
+B: (2) (b) and (c) only
+C: (3) (a) and (c) only
+D: (4) (a), (b) and (c)
+Z: संदर्भ: (Dept. A.S.O-2023)
+Q: Choose the correct alternative to the given sentence. To give is better than to receive. Options:
+A: (1) Have given is better than have received.
+B: (2) To give is better than to received.
+C: (3) Giving is better than receiving. *
+D: (4) Giving is better to not receiving.
+Z: संदर्भ: (Steno. Online exam 2022)
+Q: Identify the incorrect sentence/sentences from the following options. (a) He lied to me. (b) If you are tired, go and lay down. (c) The sick person lay on the bed. (d) Lay the injured person on this rug. Options:
+A: (1) Only (a)
+B: (2) Only (b) *
+C: (3) Only (a) and (d)
+D: (4) Only (c) and (d)
+Z: संदर्भ: (Steno. Online exam 2022)
+Q: Identify the correct sentence/sentences from the following options. (a) Working in the field, a snake bit him. (b) Working in the field, he was bitten by a snake. (c) While he was working in the field, a snake bit him. (d) Being worked in the field, a snake bit him. Options:
+A: (1) a only
+B: (2) b and c only *
+C: (3) c only
+D: (4) d only
+Z: संदर्भ: (Steno. Online exam 2022)
+Q: Identify the grammatically correct sentence.
+A: (1) I intend to sit in the garden and write letters. *
+B: (2) I intend to sit in the garden and to write letters.
+C: (3) I intend to sit in the garden and wrote letters.
+D: (4) I intend to sit in the garden and had written letters.
+Z: संदर्भ: (Group C 2022)
+Q: Choose the correct pair of words to fill in the blanks. (a) Columbus set out to ___ India, but discovered America. (b) Edison ___ the electric lamp.
+A: (1) discover, discovered
+B: (2) invented, invented
+C: (3) invented, discovered
+D: (4) discover, invented *
+Z: संदर्भ: (Group C 2022)
+Q: They _____ the merchant for his purse. Select the correct word to complete the sentence meaningfully
+A: (1) Killed
+B: (2) Murdered *
+C: (3) Hanged
+D: (4) Slained
+Z: संदर्भ: (Dept. ASO 2022)
+Q: Which of the following sentence/sentence is are correct? (a) Going up the hill, an old temple was seen. (b) Entering the room, I found the light quite dazzling. (c) Standing at the gate, a scorpion stung Answer Options:
+A: (1) Only (c)
+B: (2) Only (a)
+C: (3) Only (b) *
+D: (4) All (a), (b) and (c)
+Z: संदर्भ: (Dept. PSI 2021)
+Q: The verb form of the given noun word "Frost" will be :
+A: (1) Defrost
+B: (2) Freeze *
+C: (3) Foster
+D: (4) Fructify
+Z: संदर्भ: (Group C 2021)
+Q: Identify the Non-finite clause and its type (underlined) in the following sentence. Eating tobacco is injurious to health.
+A: (1) Non-finite relative clause
+B: (2) Non-finite - 'En'relative clause
+C: (3) Non-finite -Ing noun clause *
+D: (4) Non-finite comparative clause
+Z: संदर्भ: (Group C 2021)
+Q: Identify the correct sentence/s. (a) The glass feels smooth. (b) The plant grew quickly. (c) Bangalore is a worth seeing city. Answer Options:
+A: (1) Only (a) and (b) *
+B: (2) Only (a) and (c)
+C: (3) Only (b) and (c)
+D: (4) Only (c)
+Z: संदर्भ: (Com. B 2021)
+Q: Read the following sentence. "Hearing the knock, she opened the door." What kind of synthesizer is the underlined word in the sentence? It is
+A: (1) a gerund
+B: (2) a participle *
+C: (3) an adverbial clause
+D: (4) a noun clause
+Z: संदर्भ: (राज्यसेवा - 2021)
+Q: (a) You are prohibited from smoking here. (b) Neither pride nor prejudice affects him. (c) The committee is divided in their opinions. Identify the grammatically correct sentence/s.
+A: (1) Only (a) and (b) *
+B: (2) Only (b)
+C: (3) Only (b) and (c)
+D: (4) Only (a) and (c)
+Z: संदर्भ: (राज्यसेवा-2021)
+Q: Choose the correct sentence/s (a) I'll see Mr. Mehta, if I will be visiting Val sad. (b) He fell on the floor while entering the room. (c) I hate his sending her reminders. Answer Options:
+A: (1) Only (a) and (c)
+B: (2) Only (b) and (c) *
+C: (3) Only (a)
+D: (4) (a), (b) and (c)
+Z: संदर्भ: (राज्यसेवा-2021)
+Q: To die is better than to surrender. Which one of the following sentences substitutes a gerund for infinitive in the sentence above? (a) Dying is better than to surrender. (b) To die is better than surrendering. (c) Dying is better than surrendering. (d) Dying and surrendering are better.
+A: (1) d only
+B: (2) a only
+C: (3) b only
+D: (4) c only *
+Z: संदर्भ: (TAX ASST-2016)
+Q: Spot the incorrect sentence where misrelated participle has been used. (a) After waiting in the queue for ten minutes the bus arrived completely full. (b) After we had been waiting in the queue for ten minutes the bus arrived completely full.
+A: (1) Only (a) *
+B: (2) Only (b)
+C: (3) Both (a) and (b)
+D: (4) Neither (a) nor (b)
+Z: संदर्भ: (TAX ASST-2016)
+Q: Choose the best among the options to fill in the blank: He _ better mind his manners.
+A: (1) Had *
+B: (2) Should
+C: (3) Has
+D: (4) Can
+Z: संदर्भ: (STI - 2016)
+Q: Select the correct sentences. (a) Will you borrow me your pen? (b) I borrowed a pen from my brother. (c) I lent a pen from my brother. (d) Will you lend me your pen?
+A: (1) only (a) and (b) are correct
+B: (2) only (c) and (d) are correct
+C: (3) only (a) and (c) are correct
+D: (4) only (b) and (d) are correct *
+Z: संदर्भ: (राज्यसेवा - 2016)
+Q: Identify the part of speech of the underlined word as it occurs in the sentence: I am very interested in reading thrillers.
+A: (1) Noun *
+B: (2) Verb
+C: (3) Adjective
+D: (4) None
+Z: संदर्भ: (TAX A- 2015)
+Q: Identify incorrect sentence/s. (a) Don't fail coming to the meeting. (b) Have you decided to marry him? (c) We must avoid to smoke.
+A: (1) (a) only
+B: (2) (b) only
+C: (3) (a) and (b) only
+D: (4) (a) and (c) only *
+Z: संदर्भ: (PSI - 2016)
+Q: Identify the correct sentence: (a) She denied that she had gone to the movie last night. (b) She refused that she had gone to the movie last night. (c) She refused to return the money I lent her yesterday. (d) She denied to return the money I lent her yesterday. Answer options:
+A: (1) only (a) and (c) *
+B: (2) only (a) and (d)
+C: (3) only (b) and (d)
+D: (4) only (b) and (c)
+Z: संदर्भ: (TAX A.15)
+Q: "To follow his advice seemed logical." The subject of the above clause is
+A: (1) Infinitive *
+B: (2) Adjective
+C: (3) Adverbial
+D: (4) None of the above
+Z: संदर्भ: (Dept.STI-2014)
+Q: Choose a word from the given options that can be used with different meanings in both the blank spaces below. (a)The entire covey of birds _ upon one single tree. (b) On seeing his daughter, his face _ up.
+A: (1) lit *
+B: (2) sat
+C: (3) shone
+D: (4) landed
+Z: संदर्भ: (STI - 2014)
+Q: Choose a word from the given options that can be used in both the blank spaces below: (a) It _ all night. (b) He _ a cab to take him to office.
+A: (1) Rained
+B: (2) Snowed
+C: (3) Hailed *
+D: (4) Thundered
+Z: संदर्भ: (Clerk - 2013)
+Q: She used to play hide and seek with her girl-friends in her childhood. Which verb-form can be substituted for 'used to' to retain the meaning of this sentence?
+A: (1) Had
+B: (2) Could
+C: (3) Was
+D: (4) Would *
+Z: संदर्भ: (Clerk - 2013)
+Q: Choose the most appropriate word for the blank in the sentence: She learned to _____ when she was eleven.
+A: (1) Sow
+B: (2) So
+C: (3) Sew *
+D: (4) None of these
+Z: संदर्भ: (Engineering Pre - 2013)
+Q: Some words are used as different parts of speech. Say how many of the statements below are true. (i) 'Fast' may be used as noun, adjective, verb and adverb (ii) 'Better' may be used as adjective, verb and adverb. (iii) 'That' may be used as pronoun, adjective and adverb (iv) 'Seat' may be used as noun and verb.
+A: (1) i and iv
+B: (2) ii and iv are true
+C: (3) i, iii and iv are true
+D: (4) All are true *
+Z: संदर्भ: (राज्यसेवा 2024)
+Q: Identify the kind of verb in the given sentence. "He got her a splendid present".
+A: (1) Transitive verb
+B: (2) Intransitive verb
+C: (3) Ditransitive verb *
+D: (4) Complex transitive verb
+Z: संदर्भ: (राज्यसेवा 2023)
+Q: Identify the kind of verb in the given sentence. 'We can lift this load'.
+A: (1) transitive verb, modal verb *
+B: (2) intransitive verb, modal verb
+C: (3) modal verb, transitive verb
+D: (4) transitive verb, transitive verb
+Z: संदर्भ: (राज्यसेवा 2023)
+Q: Identify the part of speech of the underlined words in the given sentences. I. Soft drinks have a high sugar content. II. I was content just to stay at home and read. III. He was planning to desert his family and go abroad. IV. It hasn't rained in the desert for years. I II III IV
+A: (1) Noun Adjective Verb Noun *
+B: (2) Noun Verb Noun Verb
+C: (3) Adjective Adverb Noun Noun
+D: (4) Adverb Adjective Noun Verb
+Z: संदर्भ: (राज्यसेवा 2023)
+Q: Identify the sentences which contain infinitives. (a) To tell the truth, I quite forgot my promise. (b) I saw him go. (c) A rolling stone gathers no mass. (d) Children love making mud castles. (e) I hope you will excuse my leaving early.
+A: (1) a, c, d
+B: (2) b, c, e
+C: (3) a, b, d, e
+D: (4) Only a and b *
+Z: संदर्भ: (Group B -2023)
+Q: i. Please, boil the water. ii. The water is boiling. The underlined verbs in the sentences above belong to the types of verb called ___ and ___ respectively.
+A: (1) Transitive, Transitive
+B: (2) Intransitive, Transitive
+C: (3) Transitive, Intransitive *
+D: (4) Intransitive, Intransitive
+Z: संदर्भ: (Group C-2023)
+Q: Choose the correct sentences (a) Try and come tomorrow. (b) I felt sure he would die and his money would go to his son. (c) The pundit read the first mantra and the bridegroom read the second. Answer Options:
+A: (1) (c) only *
+B: (2) (b) only
+C: (3) (b) and (c) only
+D: (4) (a), (b) and (c)
+Z: संदर्भ: (Group C-2023)
+Q: Identify the verb form of the underlined word in the following sentence. Swimming is a good exercise.
+A: (1) Infinitive
+B: (2) Gerund *
+C: (3) Phrase
+D: (4) Clause
+Z: संदर्भ: (Dept. ASO-2023)
+Q: Choose the correct sentences. (a) He refused to obeyed the orders (b) Many men desire to making money quickly. (c) You dare not do it Options:
+A: (1) (c) only *
+B: (2) (b) and (c) only
+C: (3) (a) and (c) only
+D: (4) (a), (b) and (c)
+Z: संदर्भ: (Dept. A.S.O-2023)
+Q: Choose the correct alternative to the given sentence. To give is better than to receive. Options:
+A: (1) Have given is better than have received.
+B: (2) To give is better than to received.
+C: (3) Giving is better than receiving. *
+D: (4) Giving is better to not receiving.
+Z: संदर्भ: (Steno. Online exam 2022)
+Q: Identify the incorrect sentence/sentences from the following options. (a) He lied to me. (b) If you are tired, go and lay down. (c) The sick person lay on the bed. (d) Lay the injured person on this rug. Options:
+A: (1) Only (a)
+B: (2) Only (b) *
+C: (3) Only (a) and (d)
+D: (4) Only (c) and (d)
+Z: संदर्भ: (Steno. Online exam 2022)
+Q: Identify the correct sentence/sentences from the following options. (a) Working in the field, a snake bit him. (b) Working in the field, he was bitten by a snake. (c) While he was working in the field, a snake bit him. (d) Being worked in the field, a snake bit him. Options:
+A: (1) a only
+B: (2) b and c only *
+C: (3) c only
+D: (4) d only
+Z: संदर्भ: (Steno. Online exam 2022)
+Q: Identify the grammatically correct sentence.
+A: (1) I intend to sit in the garden and write letters. *
+B: (2) I intend to sit in the garden and to write letters.
+C: (3) I intend to sit in the garden and wrote letters.
+D: (4) I intend to sit in the garden and had written letters.
+Z: संदर्भ: (Group C 2022)
+Q: Choose the correct pair of words to fill in the blanks. (a) Columbus set out to ___ India, but discovered America. (b) Edison ___ the electric lamp.
+A: (1) discover, discovered
+B: (2) invented, invented
+C: (3) invented, discovered
+D: (4) discover, invented *
+Z: संदर्भ: (Group C 2022)
+Q: They _____ the merchant for his purse. Select the correct word to complete the sentence meaningfully
+A: (1) Killed
+B: (2) Murdered *
+C: (3) Hanged
+D: (4) Slained
+Z: संदर्भ: (Dept. ASO 2022)
+Q: Which of the following sentence/sentence is are correct? (a) Going up the hill, an old temple was seen. (b) Entering the room, I found the light quite dazzling. (c) Standing at the gate, a scorpion stung Answer Options:
+A: (1) Only (c)
+B: (2) Only (a)
+C: (3) Only (b) *
+D: (4) All (a), (b) and (c)
+Z: संदर्भ: (Dept. PSI 2021)
+Q: The verb form of the given noun word "Frost" will be :
+A: (1) Defrost
+B: (2) Freeze *
+C: (3) Foster
+D: (4) Fructify
+Z: संदर्भ: (Group C 2021)
+Q: Identify the Non-finite clause and its type (underlined) in the following sentence. Eating tobacco is injurious to health.
+A: (1) Non-finite relative clause
+B: (2) Non-finite - 'En'relative clause
+C: (3) Non-finite -Ing noun clause *
+D: (4) Non-finite comparative clause
+Z: संदर्भ: (Group C 2021)
+Q: Identify the correct sentence/s. (a) The glass feels smooth. (b) The plant grew quickly. (c) Bangalore is a worth seeing city. Answer Options:
+A: (1) Only (a) and (b) *
+B: (2) Only (a) and (c)
+C: (3) Only (b) and (c)
+D: (4) Only (c)
+Z: संदर्भ: (Com. B 2021)
+Q: Read the following sentence. "Hearing the knock, she opened the door." What kind of synthesizer is the underlined word in the sentence? It is
+A: (1) a gerund
+B: (2) a participle *
+C: (3) an adverbial clause
+D: (4) a noun clause
+Z: संदर्भ: (राज्यसेवा - 2021)
+Q: (a) You are prohibited from smoking here. (b) Neither pride nor prejudice affects him. (c) The committee is divided in their opinions. Identify the grammatically correct sentence/s.
+A: (1) Only (a) and (b) *
+B: (2) Only (b)
+C: (3) Only (b) and (c)
+D: (4) Only (a) and (c)
+Z: संदर्भ: (राज्यसेवा-2021)
+Q: Choose the correct sentence/s (a) I'll see Mr. Mehta, if I will be visiting Val sad. (b) He fell on the floor while entering the room. (c) I hate his sending her reminders. Answer Options:
+A: (1) Only (a) and (c)
+B: (2) Only (b) and (c) *
+C: (3) Only (a)
+D: (4) (a), (b) and (c)
+Z: संदर्भ: (राज्यसेवा-2021)
+Q: To die is better than to surrender. Which one of the following sentences substitutes a gerund for infinitive in the sentence above? (a) Dying is better than to surrender. (b) To die is better than surrendering. (c) Dying is better than surrendering. (d) Dying and surrendering are better.
+A: (1) d only
+B: (2) a only
+C: (3) b only
+D: (4) c only *
+Z: संदर्भ: (ASO 2012)
+Q: Choose the correct word to complete the following sentence meaningfully. The play ____ at eight O'clock.
+A: (1) Ended *
+B: (2) Stopped
+C: (3) Exited
+D: (4) Finished
+Z: संदर्भ: (Dept. STI - 2012)
+Q: Gerund is ___
+A: (1) Past tense of a verb
+B: (2) past participle of a verb
+C: (3) "-ing" from of a verb *
+D: (4) Future tense of a verb
+Z: संदर्भ: (Dept.STI- 12)
+Q: Choose the correct verb from of the word: 'Product'
+A: (1) Produce *
+B: (2) Product
+C: (3) Productive
+D: (4) Productivity
+Z: संदर्भ: (PSI - 2012)
+Q: Fill in the gap: As time passed, more people began ___ the internet.
+A: (1) Using *
+B: (2) Use
+C: (3) Used
+D: (4) Uses
+Z: संदर्भ: (Agri Pre 2011)
+Q: Write the verb form of the word solution:
+A: (1) To solve *
+B: (2) To resolve
+C: (3) Soluble
+D: (4) Solvent
+Z: संदर्भ: (ASO - 2011)
+Q: Choose the correct option to fill in the blank: The little girl tried to ____ her brother when she broke his toy.
+A: (1) Condole
+B: (2) Condone
+C: (3) Console *
+D: (4) Compensate
+Z: संदर्भ: (ASO - 2011)
+Q: Choose from the following the verb form of 'Liberty'
+A: (1) Libertine
+B: (2) Liberation
+C: (3) Liberality
+D: (4) Liberate *
+Z: संदर्भ: (ASO - 2011)
+Q: Complete the following sentence choosing the correct alternative: The fire soon ____ the wooden hut.
+A: (1) Extinguished
+B: (2) Squashed
+C: (3) Dissolved
+D: (4) Consumed *
+Z: संदर्भ: (ASO - 2011)
+Q: Choose the correct option to fill in the blank If you make a promise, you must be sure to ____ it.
+A: (1) Accomplish
+B: (2) Keep *
+C: (3) Follow
+D: (4) Succeed
+Z: संदर्भ: (Dept.STI - 2011)
+Q: I recognized him as soon as he ___ the room. Which is the suitable verb to fill in the blank?
+A: (1) Enters
+B: (2) Entered *
+C: (3) Entering
+D: (4) Enter
+Z: संदर्भ: (STI - 2011)
+Q: Rabindranath Tagore ___ the Nobel prize for literature. Choose the correct option:
+A: (1) Awarded
+B: (2) Is awarded
+C: (3) Was awarded *
+D: (4) Has been awarded
+Z: संदर्भ: (STI - 2010)
+Q: (a) I asked the doctor for his advice. (b) I advise you to apply for the job.
+A: (1) Sentence a is correct
+B: (2) Sentence b is correct
+C: (3) Sentences a and b are correct *
+D: (4) Sentences a and b are incorrect
+Z: संदर्भ: (PSI - 2009)
+Q: Choose the correct alternative: I don't mind ___ with the cooking but I won't wash the dishes.
+A: (1) To help
+B: (2) For helping
+C: (3) In helping
+D: (4) Helping *
+Z: संदर्भ: (PSI - 2009)
+Q: I am to seeing him tomorrow. Which of the following parts of the above sentence contains an error in it?
+A: (1) Am
+B: (2) To seeing *
+C: (3) Him
+D: (4) Tomorrow
+Z: संदर्भ: (Engineering Pre. - 2008)
+Q: Pick out the sentence in which the underlined word has been used as verb:
+A: (1) The girl is not satisfied with the explanation of the lover.
+B: (2) The explanation was not approved by any one.
+C: (3) Ram always gives wrong explanations.
+D: (4) He could not explain all the matters *
+Z: संदर्भ: (Engineering Pre.- 2008)
+Q: Fill in the blank. The children enjoy ___ in the garden.
+A: (1) Playing *
+B: (2) To play
+C: (3) In playing
+D: (4) To playing
+Z: संदर्भ: (STI - 2008)
+Q: A number of boys were punished for ___ Which of the following would fill in the blank in the above sentence?
+A: (1) Copy
+B: (2) To copy
+C: (3) Copying *
+D: (4) Copied
+Z: संदर्भ: (PSI - 2008)
+Q: He uses to go for a morning walk daily. Which of the following would replace the underlined part in the above sentence correct it:
+A: (1) Has used to go
+B: (2) Used to go *
+C: (3) Was used to go
+D: (4) Had used to go
+Z: संदर्भ: (PSI - 2004)
+Q: He could (A) /not avoid to meet (B) / his students (C)/ No error. (D)
+A: (1) A
+B: (2) B *
+C: (3) C
+D: (4) D
+Z: संदर्भ: (PSI - 2004)
+Q: Choose the correct part of speech of the underlined word: I want any book.
+A: (1) Noun
+B: (2) Adverb
+C: (3) Verb *
+D: (4) Conjunction
+Z: संदर्भ: (ASO - 2006)
+Q: Which of the following is the correct form to complete the expression? Long ___ the Indian Republic!
+A: (1) Live *
+B: (2) Lives
+C: (3) Will live
+D: (4) Should live
+Z: संदर्भ: (ASO - 2001)
+Q: Fill in the blanks with suitable form of verbs. I hope you ___ the prize.
+A: (1) Have
+B: (2) Had won
+C: (3) Win *
+D: (4) Will have won
+Z: संदर्भ: (ASO - 2001)
+Q: Choose the correct verb to fill in the blank: They will ___ from this place.
+A: (1) Flea
+B: (2) Flee *
+C: (3) Run
+D: (4) Fly
+Z: संदर्भ: (ASO - 2001)
+Q: Choose the correct verb to fill in the blank: The Board of high school and intermediate Education U.P. Allahabad has ___ courses for the students.
+A: (1) Prescribed *
+B: (2) Proscribed
+C: (3) Described
+D: (4) Published
+Z: संदर्भ: (ASO - 2001)
+Q: Words under List- A are verbs and under list B are nouns List-A List-B (a) advise Annoyance (b) Annoy Collector (c) Bury advice (d) Collect burial Choose the correct combination of codes.
+A: (1) (b) alone is correct
+B: (2) (a) and (b) are correct
+C: (3) (a), (b) and (d) are correct
+D: (4) All are correct *
+Z: संदर्भ: (STI - 1997)
+Q: Pick out the clause that completes the sentence correctly: 'Ramesh would like the boys ___ in the field'
+A: (1) Having played
+B: (2) To playing
+C: (3) Played
+D: (4) Playing *
+Z: संदर्भ: (ASO - 1996)
+Q: Choose the correct alternative to fill in the blank. He went away before I ___ him.
+A: (1) Can stopped
+B: (2) Could stop *
+C: (3) Can stop
+D: (4) Could stopped
+Z: संदर्भ: (PSI - 1995)
+Q: Fill in the blank: He entered the room, looking as if he ___ a ghost.
+A: (1) Witness
+B: (2) Meets
+C: (3) Saw *
+D: (4) Passed by
+Z: संदर्भ: (PSI - 1995)
+Q: Fill in the blank. It is about time you ___ the tea ready.
+A: (1) Get
+B: (2) Got *
+C: (3) Give
+D: (4) Receive
+Z: संदर्भ: (PSI - 1993)
+Q: Choose the correct verb to complete the sentence: Does he believe all that he ___?
+A: (1) Hear
+B: (2) Hears *
+C: (3) Sees
+D: (4) Reads
+Z: संदर्भ: (PSI - 1993)
+Q: Choose the correct form of verb to fill in the blank: He _____ by his own brother.
+A: (1) Swindle
+B: (2) Was swindled *
+C: (3) Has swindled
+D: (4) Swindled
+Z: संदर्भ: (PSI - 1991)
+Q: Choose the correct form of the verb to complete the following sentence. Princess ____ on the grass.
+A: (1) lies
+B: (2) laid
+C: (3) lay *
+D: (4) lying
+Z: संदर्भ: (PSI - 1991)
+Q: Fill in the blank: The judge ___ all matters and gave decision.
+A: (1) Gone through
+B: (2) Went through *
+C: (3) Examined
+D: (4) Checked
+Z: संदर्भ: (PSI - 1991)
+Q: Choose the correct form of the verb to complete the following sentence: He spoke so softly that nobody could ____ what he said.
+A: (1) Hear *
+B: (2) Heard
+C: (3) Forget
+D: (4) Had heard
+Z: संदर्भ: (PSI - 1988)
+Q: Choose the correct verb to fill in the blank: Come in now, I am sorry ___ you waiting.
+A: (1) To keep
+B: (2) To have kept *
+C: (3) To be keeping
+D: (4) To kept
+Z: संदर्भ: (PSI - 1988)
+Q: Choose the correct verb to fill in the blank: Lawyer always ___ the law.
+A: (1) pleads
+B: (2) convinces
+C: (3) tells
+D: (4) interprets *
+Z: संदर्भ: (PSI - 1988)
+Q: Choose the correct verb to fill in the blank: I think you are __ something.
+A: (1) Saying *
+B: (2) Speaking
+C: (3) Talking
+D: (4) Telling
+Z: संदर्भ: (PSI - 1987)
+Q: Choose the correct verb to fill in the blank: He is now prepared to ___ his fault.
+A: (1) Admit *
+B: (2) Accept
+C: (3) Think
+D: (4) Drink
+Z: संदर्भ: (PSI - 1987)
+Q: Choose the correct verb to fill in the blank: There ___ both the challenge and the secret of success.
+A: (1) Lay
+B: (2) Lied
+C: (3) Laid
+D: (4) Lie *
+Z: संदर्भ: (PSI - 1986)
+Q: Use correct verb to complete the given sentence. The healthy silk worms are__ up on leaves of mulberry.
+A: (1) Fed
+B: (2) Brought *
+C: (3) Kept
+D: (4) Put
+Z: संदर्भ: (PSI - 1984)
+Q: The murderer was____ to life imprisonment.
+A: (1) Committed
+B: (2) Convicted
+C: (3) Sentenced *
+D: (4) Penalized
+Z: संदर्भ: (PSI-1984)
+Q: The past participle of the given verb is: 'Run'
+A: (1) Ran
+B: (2) Running
+C: (3) Run *
+D: (4) None
