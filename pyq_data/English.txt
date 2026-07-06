@@ -1666,3 +1666,429 @@ A: (1) Ran
 B: (2) Running
 C: (3) Run *
 D: (4) None
+Z: संदर्भ: (MPSC C- 2025)
+Q: Which form of the tense is defined by the following sentence? "It is used to express an action which began sometime ago in the past and which is still continuing". Options:
+A: (1) Present Perfect Continuous Tense *
+B: (2) Present Continuous Tense
+C: (3) Past Continuous Tense
+D: (4) Past Perfect Continuous Tense
+Z: संदर्भ: (MPSC Translator C 2025)
+Q: The Present Simple Tense used in the following sentence expresses____ 'Water boils at 100°C'. (a) repeated action. (b) scientific fact. (c) idea of continuity. (d) habit. Options:
+A: (1) (c) only
+B: (2) (a) only
+C: (3) (b) only *
+D: (4) (d) only
+Z: संदर्भ: (Group C 2024)
+Q: Identify the correct sentence in the 'Past Perfect Continuous Tense' from the options given below.
+A: (1) I worked at the office until I got promoted.
+B: (2) I was working at the office five years back.
+C: (3) I worked at the office five years back.
+D: (4) I had been working at the office for five years when I got the promotion. *
+Z: संदर्भ: (Group B 2024)
+Q: Choose the correct tense of the verb given in the bracket and complete the sentence. The police___ (catch) the thief last night.
+A: (1) caught *
+B: (2) will catch
+C: (3) shall be catching
+D: (4) would catch
+Z: संदर्भ: (Group B 2024)
+Q: Identify from the following the sentence with correct use of preposition. (a) She has been teaching in this college from 2001. (b) She has been teaching in this college since 2001. (c) She has been teaching in this college before 2001. (d) She has been teaching in this college for 2001.
+A: (1) (c) only
+B: (2) (a) only
+C: (3) (d) only
+D: (4) (b) only *
+Z: संदर्भ: (Group B - 2024)
+Q: Choose the correct form of the future continuous tense in the following sentence. 'Even two hours from now she_ the letters.'
+A: (1) will type
+B: (2) will be typing *
+C: (3) will have been type
+D: (4) shall have typed
+Z: संदर्भ: (Group B - 2024)
+Q: Fill in the blank with the correct option. The United States of America____of people of all nationalities.
+A: (1) consist
+B: (2) consisting
+C: (3) have consisted
+D: (4) consists *
+Z: संदर्भ: (Group B 2024)
+Q: Fill in the blank by using the correct future tense. Don't worry ____late tonight.
+A: (1) if I am *
+B: (2) when I am
+C: (3) when I'll be
+D: (4) if I'll be
+Z: संदर्भ: (Group B - 2024)
+Q: Identify the grammatically correct sentence from the following.
+A: (1) Jyoti has always to hurry in the morning because she gets up so late.
+B: (2) Jyoti always has to hurry in the morning because she gets up so late. *
+C: (3) Jyoti gets up so late has always to hurry in the morning.
+D: (4) Jyoti is getting up so late having so hurry in the morning.
+Z: संदर्भ: (राज्यसेवा 2023)
+Q: Identify the grammatically incorrect sentences. (a) I saw a good film yesterday. (b) The train left before I arrived. (c) If I had a car, things would be fine. (d) He read the Bible everyday.
+A: (1) Only (a) and (c)
+B: (2) Only (b) and (c)
+C: (3) Only (b) and (d) *
+D: (4) Only (d)
+Z: संदर्भ: (राज्यसेवा 2023 )
+Q: Identify the sentences with correct tense form (a) I have not seen him for several days. (b) When I first met him, he was studying painting. (c) He fell ill and is on leave today. (d) We wait for you as long as you wish.
+A: (1) Only (a) and (b) *
+B: (2) Only (b) and(c)
+C: (3) Only (a) and (d)
+D: (4) Only (c)and (d)
+Z: संदर्भ: (Combined B -2023)
+Q: Identify the grammatically correct sentence/s. (a) His parents loves him a lot. (b) His courage won him honour. (c) We all got very wet. (d) They are been watched by the cops.
+A: (1) (a) and (b) only
+B: (2) (b) and (c)only *
+C: (3) (c) and (d) only
+D: (4) (a) and (d) only
+Z: संदर्भ: (Group B -2023)
+Q: Identify the unit in which there is an error. She had been a nurse for three years and then she wants to study medicine
+A: (1) Only (a)
+B: (2) Only (b)
+C: (3) Only (c) *
+D: (4) No error
+Z: संदर्भ: (Group C -2023)
+Q: Identify the correct sentences : (a) I met Renu after I had finished my work. (b) When I first seeing him, I thought he was a lawyer. (c) He joined after had his dinner. Answer Options :
+A: (1) (a) only *
+B: (2) (a) and (b) only
+C: (3) (a) and (c) only
+D: (4) (a), (b) and (c)
+Z: संदर्भ: (Dept. P.S.I-2023)
+Q: Choose the correct sentences: (a) I am knowing him for a long time. (b) We have lived here for ten years. (c) We haven't seen Padma for several months. Answer options:
+A: (1) (c) only
+B: (2) (a) and (c) only
+C: (3) (b) and (c) only *
+D: (4) (a), (b) and (c)
+Z: संदर्भ: (Dept.P.S.I-2023)
+Q: Choose the correct replacement for the underlined items: They rested at sunset.
+A: (1) When evening was coming.
+B: (2) When evening had come.
+C: (3) When evening came. *
+D: (4) When evening has come.
+Z: संदर्भ: (Dept. ASO-2023)
+Q: The dogs_____ throughout the night. Select the correct alternative to complete the sentence meaningfully. Options:
+A: (1) barked
+B: (2) were barking *
+C: (3) have barked
+D: (4) had barked
+Z: संदर्भ: (Group B -2022)
+Q: 'It has been raining since eight O'clock this morning'. The tense used in the sentence above is
+A: (1) Progressive form of the present tense.
+B: (2) Past form of the perfect tense.
+C: (3) Present perfect tense.
+D: (4) Progressive form of the perfect tense. *
+Z: संदर्भ: (राज्यसेवा 2022)
+Q: Identify underlined tense form in the given example: e.g. The train will have left by the time you reach the station.
+A: (1) simple future
+B: (2) past perfect
+C: (3) present perfect
+D: (4) future perfect *
+Z: संदर्भ: (Combined C 2022)
+Q: (a) They are preparing lessons for the ensuing examinations. (b) Ranjan is doing this important work for the last five days. (c) The examinees stopped writing when the invigilator entered the hall. Identify the sentence/s grammatically correct.
+A: (1) Only (a) and (b)
+B: (2) Only (b) and (c)
+C: (3) Only (b)
+D: (4) Only (a) *
+Z: संदर्भ: (Dept. ASO 2022)
+Q: (a) This passenger train is about to leave the station. (b) This passenger train is on the point of leaving the station. (c) This passenger train is going to leave the station. (d) This passenger train might leave the station soon. All the above sentences express the action in the.......
+A: (1) Simple present tense
+B: (2) Continuous present tense
+C: (3) Perfect future tense
+D: (4) Simple future tense *
+Z: संदर्भ: (Combined C -2021)
+Q: Fill in the blank with the most appropriate form of the verb given in the brackets. 'We ____for you for two hours (wait)
+A: (1) have been waiting *
+B: (2) are waiting
+C: (3) would have been waiting
+D: (4) none of the above
+Z: संदर्भ: (Group B -2021)
+Q: 'The military is going to lay a trap to arrest the terrorists'. The underlined form in the sentence above is used to convey____. (a) intention to perform a certain action in the near future (b) planned action (c) action in remote future (d) a great probability
+A: (1) (d) Only
+B: (2) (b) Only
+C: (3) (a) Only *
+D: (4) both (c) and (d)
+Z: संदर्भ: (Dept. PSI 2021)
+Q: Choose the correct sentence
+A: (1) He has been working for two months. *
+B: (2) He was slept when the thief broke in.
+C: (3) He has gone to Pune, yesterday.
+D: (4) We have gone there last week.
+Z: संदर्भ: (Dept. PSI 2021)
+Q: Fill in the blank from the options given below "She has been missing ____Monday last."
+A: (1) since *
+B: (2) from
+C: (3) for
+D: (4) during
+Z: संदर्भ: (Tech. Pre. 2021)
+Q: Before Akshay came to Bollywood, he ____ in hotels for five years. Select the correct alternative to complete the sentence meaningfull
+A: (1) was working
+B: (2) has been working
+C: (3) had worked
+D: (4) had been working *
+Z: संदर्भ: (Dept.ASO 2021)
+Q: Choose the correct substitute of the following sentence: Sasikala is not even understanding simple equations!
+A: (1) Sasikala don't understand even simple equations!
+B: (2) Sasikala does not even understand simple equations! *
+C: (3) Sasikala hasn't even understanding simple equations!
+D: (4) Sasikala cannot understood even simple equations!
+Z: संदर्भ: (Dept.ASO - 2021)
+Q: Fill in the blank. I ____ England last August.
+A: (1) visited *
+B: (2) have visited
+C: (3) had visited
+D: (4) visiting
+Z: संदर्भ: (राज्यसेवा -2020)
+Q: We ____our hotel before it started raining. Which one of the following verb forms expresses the action in Past Perfect in the sentence above? (a) reached (b) were reaching (c) had reached (d) tried to reach
+A: (1) (d) only
+B: (2) (c)only *
+C: (3) (b) only
+D: (4) (a) only
+Z: संदर्भ: (राज्यसेवा-2019)
+Q: Choose the correct sentences: (a) We have lived in the village since 1987. (b) We have been living in the village since 1987. (c) We are living in the village since 1987.
+A: (1) (c) only
+B: (2) (b) only
+C: (3) Both (a) and (b) *
+D: (4) Both (b) and (c)
+Z: संदर्भ: (राज्यसेवा -2019)
+Q: Tense is the form of the verb used to indicate: (a) The time of the action (b) The continuance of the action (c) The completeness of the action
+A: (1) Only a is true
+B: (2) Only b is true
+C: (3) Only c is true
+D: (4) All statement a, b and c are true *
+Z: संदर्भ: (Group B- 2019)
+Q: We have lived in this house since 1982 The use of perfect tense in the above sentence is called:
+A: (1) the resultative use
+B: (2) the perfect of experience
+C: (3) the continuative use *
+D: (4) the inclusive use
+Z: संदर्भ: (Group C -2019)
+Q: Emma _ Graham when she was going out with his friend. Choose the correct alternative to complete the sentence
+A: (1) meets
+B: (2) has met
+C: (3) met *
+D: (4) had met
+Z: संदर्भ: (Group C -2019)
+Q: (a) She got up when the alarm clock went off. (b) We visited Spain three times last year Choose the correct sentence from the options given above.
+A: (1) Both the sentences are incorrect
+B: (2) Only a is correct.
+C: (3) Only b is correct.
+D: (4) Both the sentences are correct *
+Z: संदर्भ: (Group C -2019)
+Q: The barber has cut my hair very short. Identify the correct progressive future tense form of the above sentence.
+A: (1) The barber is cutting my hair very short.
+B: (2) The barber will have cut my hair very
+C: (3) The barber will be cutting my hair very short. *
+D: (4) The barber had cut my hair very short.
+Z: संदर्भ: (Forest - 2019)
+Q: 'She works in Mumbai' In above sentence, the underlined word denotes:
+A: (1) present state
+B: (2) present habit *
+C: (3) temporary present
+D: (4) temporary habit
+Z: संदर्भ: (राज्यसेवा-2018)
+Q: Identify the correct sentence/s: (a) The Machine Gunners was one of the Robert Westall's most successful books. (b) Among the people invited was the mayor. (c) They have been playing since four O'clock.
+A: (1) (a), (b) and (c) *
+B: (2) (b) and (c)
+C: (3) only (c)
+D: (4) (a) and (c)
+Z: संदर्भ: (राज्यसेवा -2018)
+Q: Fill in the blanks : (a) I'm_ film tonight. (b) I'll be _all day on Sunday. (c) I'm _____ ask him to return my money.
+A: (1) will see, slept, going to
+B: (2) seeing, slept, going to
+C: (3) seeing, sleeping, going to *
+D: (4) will see, sleeping, going to
+Z: संदर्भ: (राज्यसेवा-2018)
+Q: Identify the correct sentence. (a) I was sure that I had met him before. (b) On my last visit to Wixton I found that the village didn't change much. (c) She admitted that she has stolen the watch.
+A: (1) Only (a) *
+B: (2) only (a) and (c)
+C: (3) Only (b) and (c)
+D: (4) only (c)
+Z: संदर्भ: (Group B -2018)
+Q: Choose the correct sentences. (a) I am used for getting up early. (b) Before his marriage, Meeran used to spend a lot of his time in the club. (c) My wife is used to getting up early. (d) The Earth's resources are being used up at an alarming rate.
+A: (1) Only (a) and (b)
+B: (2) Only (b) and (c)
+C: (3) Only (a) and (c)
+D: (4) Only (b), (c) and (d) *
+Z: संदर्भ: (Combined B -2018)
+Q: Use the correct tense form of the given verb: Look, there she _ (come)!
+A: (1) Coming
+B: (2) is coming
+C: (3) comes *
+D: (4) has been coming
+Z: संदर्भ: (STI- 2018)
+Q: Identify the correct sentence/s. (a) I am not understanding this letter. (b) She arrived at the theatre at 6 pm but the film had already started. (c) If I get any news, I'll tell you.
+A: (1) (a) and (c) only
+B: (2) (b) and (c) only *
+C: (3) (a) only
+D: (4) All of the above
+Z: संदर्भ: (Forest-2018)
+Q: Choose the correct sentence from the following sentences: (a) When they reached the airport, the plane had already taken off. (b) When they reached the airport, the plane already took off.
+A: (1) (a) *
+B: (2) (b)
+C: (3) Both a and b
+D: (4) None of the above
+Z: संदर्भ: (STI -2018)(ASO -2016)
+Q: I am/here / since / 1951. 1 2 3 4 The error occurs in part of the sentence above.
+A: (1) 4 only
+B: (2) 2 only
+C: (3) 1 only *
+D: (4) 3 Only
+Z: संदर्भ: (राज्यसेवा-2016)
+Q: Select the correct sentence. (a) They worked hard today in the garden. (b) He lived there happily for a year. Answer options:
+A: (1) only (a)
+B: (2) only (b)
+C: (3) Both *
+D: (4) Neither
+Z: संदर्भ: (Forest -2018)
+Q: Which of the following sentences is grammatically correct ?
+A: (1) I have seen the film last night.
+B: (2) Father has been ill since ten years.
+C: (3) Whom did you see? *
+D: (4) My brother is engineer.
+Z: संदर्भ: (Eng. pre. -2018)
+Q: Identify the correct sentence. (a) She got up when the alarm clock went off. (b) Erika had dropped her bag while she was getting into her car. (c) It was the first time I'd talked to Ella outside the office. (d) She will be taking up her place at University in October.
+A: (1) (a) and (c)
+B: (2) (b) and (d)
+C: (3) (a), (c) and (d) *
+D: (4) (b), (c) and (d)
+Z: संदर्भ: (Gr. C - 2018)
+Q: Use the appropriate phrase 'draw up' in the following sentence. My solicitor___the lease and we both signed it.
+A: (1) have drawn up
+B: (2) drew up *
+C: (3) has drawn up
+D: (4) drawn up
+Z: संदर्भ: (राज्यसेवा 2017)
+Q: Choose the correct sentence/s: (a) We too have been wanting to see you. (b) We too have wanting to see you. (c) I haven't been seeing such a lovely place.
+A: (1) (a) and (c) only
+B: (2) (a) only *
+C: (3) (c) only
+D: (4) (a), (b) and (c)
+Z: संदर्भ: (राज्यसेवा-2017)
+Q: Identify the correct sentence
+A: (1) The price is depended on the quality.
+B: (2) The price is made to depend on the quality.
+C: (3) The price depends on the quality. *
+D: (4) The price was depended on the quality.
+Z: संदर्भ: (राज्यसेवा -2017)
+Q: We are going to discuss all the issues in detail. The underlined expression in the sentence above reveals _.
+A: (1) Definite future
+B: (2) Immediate future *
+C: (3) remote future
+D: (4) possible future
+Z: संदर्भ: (Excise-2017)
+Q: Choose the correct verb from. They went out after lunch and they __ (i) _ just _(ii) ___ back.
+A: (1) (i) have (ii) come *
+B: (2) (i) had (ii) come
+C: (3) (i) have (ii) came
+D: (4) (i) had (ii) came
+Z: संदर्भ: (PSI -2017)
+Q: Identify the sentence/s grammatically incorrect. (a) Raju completes his course next year. (b) We have just eaten two mangoes. (c) I have studied this topic for three hours.
+A: (1) Only (a)
+B: (2) Only (b)
+C: (3) Only (c) *
+D: (4) None the above
+Z: संदर्भ: (Dept. ASO -2017)
+Q: Identify the correct sentence : (a) By the time we arrived at the station, the train had left. (b) Since he has completed his job, he left early.
+A: (1) Only (a) *
+B: (2) Only (b)
+C: (3) Both
+D: (4) Neither
+Z: संदर्भ: (ASO -2017)
+Q: Identify the correct sentence/s. (a) Kapil has been playing cricket for several years. (b) After depositing the fee to the hostel the boys went. (c) These girls have been singing nicely. (d) He is now playing a match.
+A: (1) Only (a) and (c) *
+B: (2) Only (b) and (c)
+C: (3) Only (a), (b) and (c)
+D: (4) Only (a), (b) and (d)
+Z: संदर्भ: (Clerk-2017)
+Q: Fill in the blank: The pupils _ in the class when the teacher entered.
+A: (1) are making a noise
+B: (2) were making a noise *
+C: (3) makes noise
+D: (4) making sound
+Z: संदर्भ: (Forest-2017)
+Q: Select the correct sentence/s. (a) He has been working for two months. (b) He went to Mumbai yesterday. (c) We have gone there last week.
+A: (1) Only (a)
+B: (2) Only (b)
+C: (3) Only (c)
+D: (4) Only (a) and (b) *
+Z: संदर्भ: (Tax Asst. -2017)
+Q: Fill in the blank with the correct form of the tense given in bracket. Reena did not go to school yesterday as she____(finish) her homework.
+A: (1) had not finished *
+B: (2) have not finished
+C: (3) has not finished
+D: (4) will not finished
+Z: संदर्भ: (Tax Asst.-2017)
+Q: Fill in the blank with correct preposition : He has been in hospital ___ last week.
+A: (1) in
+B: (2) for
+=A: (3) since *
+B: (4) from
+Z: संदर्भ: (TAX-ASST- 2017)
+Q: The following sentence are on the same theme, but only sentence is grammatically correct. Choose the correct sentence.
+A: (1) The students were taught that the earth moved round the sun.
+B: (2) The students were taught that the earth is moving round the sun.
+C: (3) The students were taught that the earth moves around the sun. *
+D: (4) The students were taught that the earth would move round the sun.
+Z: संदर्भ: (Tax Asst. -2017)
+Q: Fill the blanks from the options given below. It __ already __raining when I _ an umbrella.
+A: (1) stopped, brought, had
+B: (2) had, brought, stopped
+C: (3) brought, stopped, had
+D: (4) had, stopped, brought *
+Z: संदर्भ: (Tax Asst. -2017)
+Q: Choose the correct option to fill in the blank: My eyes are aching now because I ____ since morning.
+A: (1) am reading
+B: (2) have read
+C: (3) have been reading *
+D: (4) read
+Z: संदर्भ: (Eng. pre.- 2017)
+Q: Find out the correct sentence of present perfect continuous tense.
+A: (1) I have been waiting for guests since morning. *
+B: (2) I had been waiting for guests since morning.
+C: (3) I had being waiting for guests since morning.
+D: (4) I has been waiting for guests since morning.
+Z: संदर्भ: (Dept.PSI2017)
+Q: Choose the correct sentence(s) (a) I have got Indira's letter yesterday. (b) I saw him at the Bhusaval station last month. (c) You have met Fatima at the station? Answer options :
+A: (1) (a) only
+B: (2) (b) only *
+C: (3) (c) only
+D: (4) (a), (c) and (c)
+Z: संदर्भ: (Dept.PSI2017)
+Q: Choose the correct alternative for the blank. I........... this film four times.
+A: (1) have seen *
+B: (2) am seeing
+C: (3) was seeing
+D: (4) have been seeing
+Z: संदर्भ: (Education officer -2017)
+Q: Identify the correct sentence. (a) She has slept for eight hours last night. (b) I have had my dinner. Answer options
+A: (1) Only (a) is correct
+B: (2) Only (b) is correct *
+C: (3) Both (a) and (b) are correct
+D: (4) Both (a) and (b) are incorrect
+Z: संदर्भ: (PSI-2017)
+Q: Choose the correct sentence:
+A: (1) She wishes the car belonged to you. *
+B: (2) She wished the car belongs to you.
+C: (3) She is wishing the car belonged to you.
+D: (4) She wishes the car is belonging to you.
+Z: संदर्भ: (PSI - 2017)
+Q: Identify the correct sentences. (a) John, write a thousand lines poem. (b) John write a thousand lines poem. (c) John writes a thousand lines poem. (d) John doesn't write a thousand lines poem. Answer options
+A: (1) Only (c) and (d) are correct.
+B: (2) All (a), (b), (c) and (d) are correct.
+C: (3) Only (a), (c) and (d) are correct. *
+D: (4) All (a), (b), (c) and (d) are wrong.
+Z: संदर्भ: (राज्यसेवा -2016)
+Q: In which one of the following sentences does the present tense express a future action when its futurity is clear from the context?
+A: (1) College reopens on Monday *
+B: (2) Man is mortal.
+C: (3) Cows eat grass.
+D: (4) Sugar is sweet.
+Z: संदर्भ: (Engg. Pre. -2017)
+Q: Fill in the blank: Don't disturb me, I ____ my homework.
+A: (1) do
+B: (2) did
+C: (3) am doing *
+D: (4) will do
+Z: संदर्भ: (राज्यसेवा-2016)
+Q: Which of the following sentences is correct:
+A: (1) They have been married for five years. *
+B: (2) They have been marrying for five years.
+C: (3) They have been married since five years.
+D: (4) They are married for five years.
