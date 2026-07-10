@@ -2500,3 +2500,189 @@ A: (1) already started
 B: (2) had already started *
 C: (3) would already started
 D: (4) was started
+Z: संदर्भ: (Engi. Pre.-2012)
+Q: Fill in the blank with correct tense from of the verb given: I saw two policemen ___(chase) a thief.
+A: (1) will be chasing
+B: (2) will chase
+C: (3) chasing
+D: (4) were chasing *
+Z: संदर्भ: (Engi.Pre.-2012)
+Q: Which verb will be suitable to fill in the blank? 'My daughter Madhavi ___ a good memory.'
+A: (1) has been
+B: (2) has *
+C: (3) is
+D: (4) will be
+Z: संदर्भ: (Engi. Pre.-2012)
+Q: Choose the correct alternative for the underlined word: I am the secretary of the Sports Club since its formation five years ago.
+A: (1) was
+B: (2) have been *
+C: (3) had been
+D: (4) no improvement
+Z: संदर्भ: (ASO-2012)
+Q: Choose from the alternatives, the sentence which is in perfect past tense:
+A: (1) She has writing a letter.
+B: (2) She had been writing a letter.
+C: (3) She had written a letter. *
+D: (4) She has written a letter.
+Z: संदर्भ: (ASO-2012)
+Q: Fill in the blank choosing the correct alternative Newton ___ that the force of gravitation makes apples fall.
+A: (1) invented
+B: (2) has invented
+C: (3) discovered *
+D: (4) deplored
+Z: संदर्भ: (PSI-2012)
+Q: Choose the correct option: The contractor said that he ___ the work before the end of October.
+A: (1) Will complete
+B: (2) would complete *
+C: (3) was completing
+D: (4) will be completing
+Z: संदर्भ: (ASO - 2012)
+Q: Complete the following sentence using the correct form of verb: I ____ (write) letters since ten o'clock this morning .
+A: (1) wrote
+B: (2) have been writing *
+C: (3) was writing
+D: (4) had been writing
+Z: संदर्भ: (PSI-2012)
+Q: Fill in the blank with the correct tense form: He _ all day yesterday.
+A: (1) working
+B: (2) works
+C: (3) had worked
+D: (4) worked *
+Z: संदर्भ: (Agri Pre 2011)
+Q: 'Children like to play in water'. Which of the given options represents negative meaning of the above sentence?
+A: (1) Children do not like to play in water *
+B: (2) Children enjoy to play in water
+C: (3) Children cannot like to play in water
+D: (4) Children will not like to play in water
+Z: संदर्भ: (Agri Pre 2011)
+Q: Use correct verb form of a verb given in bracket. I always (obey) my father when I was a child.
+A: (1) obeyed *
+B: (2) obeying
+C: (3) is obeying
+D: (4) have obeyed
+Z: संदर्भ: (Agri Pre 2011)
+Q: Change into simple past: He beats his dog everyday.
+A: (1) He beat his dog everyday *
+B: (2) He is beating his dog everyday
+C: (3) He beating his dog everyday
+D: (4) He was beating his dog everyday
+Z: संदर्भ: (Agri Pre 2011)
+Q: Choose the correct tense: My brother build a new house last year.
+A: (1) My brother built a new house last year *
+B: (2) My brother was built a new house last year
+C: (3) My brother has build a new house last year
+D: (4) My brother will build a new house last year
+Z: संदर्भ: (Agri Pre 2011)
+Q: Manish ........in this company since 1999. Use the correct verb form:
+A: (1) work
+B: (2) is working
+C: (3) has been working *
+D: (4) has worked
+Z: संदर्भ: (STI-2011)
+Q: Choose suitable verb-form: The train _ at 6.30 p.m. every day.
+A: (1) Arrives *
+B: (2) will arrive
+C: (3) arriving
+D: (4) would arrive
+Z: संदर्भ: (Dept.PSI-2011)
+Q: Fill in the blank with the correct tense form. I ___ they are wrong.
+A: (1) think *
+B: (2) have been thinking
+C: (3) am thinking
+D: (4) was thinking
+Z: संदर्भ: (Dept.PSI-2011)
+Q: Choose the correct alternative from the following to fill in the blank. My friends ____ the Prime Minister yesterday.
+A: (1) see
+B: (2) will see
+C: (3) have seen
+D: (4) saw *
+Z: संदर्भ: (Dept.PSI 2011)
+Q: Choose the correct alternative from the following to fill in the blank. It ........... since early morning
+A: (1) Rained
+B: (2) Was raining
+C: (3) Has been raining *
+D: (4) Will rain
+Z: संदर्भ: (Clerk - 2011)
+Q: Choose the correct tense from of the verbs in the bracket to complete the sentence. My uncle ___ (want) to know how I am doing my business.
+A: (1) was wanting
+B: (2) wanted *
+C: (3) have wanted
+D: (4) want
+Z: संदर्भ: (Clerk-2011)
+Q: She jumped off the bus while it _____. Choose the correct alternative from the following to fill in the blank:
+A: (1) moved
+B: (2) was moving *
+C: (3) had moved
+D: (4) will be moving
+Z: संदर्भ: (PSI-2011)
+Q: The drunk was very drunk. Identify the tense
+A: (1) Simple present
+B: (2) simple past *
+C: (3) past perfect
+D: (4) Present perfect
+Z: संदर्भ: (Dept. STI-2011)
+Q: An honest person always _ the truth. Choose proper word from the following to fill in the blank.
+A: (1) tell
+B: (2) tells *
+C: (3) told
+D: (4) telling
+Z: संदर्भ: (ASO-2011)
+Q: Choose appropriate form of the verb to fill in the blank: She ___ in America since 1995.
+A: (1) lives
+B: (2) Is living
+C: (3) have been living
+D: (4) has been living *
+Z: संदर्भ: (Clerk-2011)
+Q: The ship had _____ before help arrived. Choose the correct verb from the following alternatives to fill in the blank.
+A: (1) sank
+B: (2) sinks
+C: (3) sink
+D: (4) sunk *
+Z: संदर्भ: (Clerk-2011)
+Q: Choose the correct alternative to fill in the blank. Before we had finished our meal, he ___ us back to work.
+A: (1) ordered *
+B: (2) has ordered
+C: (3) was ordering
+D: (4) orders
+Z: संदर्भ: (D.Ed CET-2010)
+Q: Identify correct 'Tense Form': 'He cut a mango'
+A: (1) Simple present Tense
+B: (2) Simple Future Tense
+C: (3) Simple Past Tense *
+D: (4) Present continuous Tense
+Z: संदर्भ: (D.Ed CET-2010)
+Q: Choose correct 'Tense Form' that is used in the following sentence: 'We had been playing in the park.'
+A: (1) Past Perfect Continuous Tense. *
+B: (2) Past Continuous Tense.
+C: (3) Present Perfect Continuous Tense.
+D: (4) Past Perfect Tense.
+Z: संदर्भ: (Engi. Pre.-2009)
+Q: She _ her homework before I asked her.
+A: (1) finished
+B: (2) has finished
+C: (3) had finished *
+D: (4) was finishing
+Z: संदर्भ: (Eng. pre.-2009)
+Q: Each question sentence is divided into three parts, there may be an error in one part. Identify the error part. If there is no error your answer should be 'D'. The sun / is rising / every day. / No error (A) (B) (C) (D)
+A: (1) A
+B: (2) B *
+C: (3) C
+D: (4) D
+Z: संदर्भ: (Engi.Pre.-2009)
+Q: Fill in the blank with correct alternative: "I can't remember when I ____ her last."
+A: (1) had seen
+B: (2) have seen
+C: (3) was seen
+D: (4) saw *
+Z: संदर्भ: (STI-2010) (राज्यसेवा मुख्य- 2013)
+Q: Choose the correct alternative to fill in the blank: We had reached the station, before the train ____
+A: (1) arrive
+B: (2) arrived *
+C: (3) had arrived
+D: (4) had been arriving
+Z: संदर्भ: (STI-2010)
+Q: Choose the correct alternative to fill in the blank: When we went to the cinema, the film _____
+A: (1) already started
+B: (2) had already started *
+C: (3) would already started
+D: (4) was started
