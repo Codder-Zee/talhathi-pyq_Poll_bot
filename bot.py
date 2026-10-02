@@ -6,45 +6,85 @@ import requests
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 CHANNEL_ID = os.getenv("CHANNEL_ID")
 
-# 📂 Files che paths (.txt)
-FILES = ["pyq_data/pyq.txt", "pyq_data/Marathi.txt", "pyq_data/English.txt"]
-BATCH_SIZE = int(os.getenv("BATCH_SIZE", "10"))  # eg. 10 pyqs randomly selection
+# 📂 PYQ files
+# Ya 6 files madhun sagle PYQs ekatra gheun random selection hoil.
+FILES = [
+    "pyq_data/Marathi.txt",
+    "pyq_data/English.txt",
+    "pyq_data/Science.txt",
+    "pyq_data/Economy.txt",
+    "pyq_data/Polity.txt",
+    "pyq_data/History.txt",
+]
+
+BATCH_SIZE = int(os.getenv("BATCH_SIZE", "10"))
 
 
 def parse_questions(text):
+    """
+    File format:
+
+    Z: Session
+    Q: Question
+    A: Option A
+    B: Option B
+    C: Option C
+    D: Option D*
+    E: Explanation
+
+    E: optional aahe.
+    E: asel tar Telegram quiz madhlya 💡 explanation madhe jail.
+    E: nasel tar explanation pathavla janar nahi.
+    """
+
     questions = []
 
-    # 🔍 Strick Pattern: Jo kontyahi line breaking vr ghabrat nahi.
-    # Z: optional ahe pan to Q: chya agdi vrch pahije.
+    # D ani E vegvegale capture karto.
+    # E nasel tari question parse hoil.
     pattern = re.compile(
-        r'(?:^|\n)Z:\s*(.*?)\s*\n\s*Q:\s*(.*?)\s*\n\s*A:\s*(.*?)\s*\n\s*B:\s*(.*?)\s*\n\s*C:\s*(.*?)\s*\n\s*D:\s*(.*?)(?=\n\s*(?:Z:|Q:)|$)',
+        r'(?:^|\n)Z:\s*(.*?)\s*\n'
+        r'\s*Q:\s*(.*?)\s*\n'
+        r'\s*A:\s*(.*?)\s*\n'
+        r'\s*B:\s*(.*?)\s*\n'
+        r'\s*C:\s*(.*?)\s*\n'
+        r'\s*D:\s*(.*?)(?=\n\s*E:|\n\s*Z:|\Z)'
+        r'(?:\n\s*E:\s*(.*?))?'
+        r'(?=\n\s*Z:|\Z)',
         re.DOTALL
     )
 
     matches = pattern.findall(text)
-    
+
     for match in matches:
         z_text = match[0].strip()
         raw_q = match[1].strip()
+
         opt_a = match[2].strip()
         opt_b = match[3].strip()
         opt_c = match[4].strip()
         opt_d = match[5].strip()
 
-        # Strict Capital verification - bhighad kitihi aso, aapan check karnar
-        # ki tags original string madhe standard hotya ka
+        # E: optional
+        explanation = match[6].strip()
+
         options = [opt_a, opt_b, opt_c, opt_d]
-        correct = 0
+        correct = None
 
         cleaned_options = []
+
         for idx, opt in enumerate(options):
             is_correct = "*" in opt
+
+            # Correct answer mark (*) remove karto
             clean_opt = opt.replace("*", "").strip()
             cleaned_options.append(clean_opt)
+
             if is_correct:
                 correct = idx
 
-        if len(cleaned_options) == 4:
+        # 4 options ani correct answer donhi valid asne required
+        if len(cleaned_options) == 4 and correct is not None:
+
             if z_text:
                 poll_q = f"[{z_text}]\n\n➤ {raw_q}"
             else:
@@ -53,14 +93,16 @@ def parse_questions(text):
             questions.append({
                 "poll": poll_q,
                 "options": cleaned_options,
-                "correct": correct
+                "correct": correct,
+                "explanation": explanation
             })
 
     return questions
 
 
-def send_poll(q, options, correct):
+def send_poll(q, options, correct, explanation=""):
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendPoll"
+
     payload = {
         "chat_id": CHANNEL_ID,
         "question": q,
@@ -69,33 +111,72 @@ def send_poll(q, options, correct):
         "correct_option_id": correct,
         "is_anonymous": True,
     }
-    r = requests.post(url, json=payload)
-    print(r.text)
+
+    # Telegram quiz madhla 💡 Explanation option
+    # E: asel tarch explanation pathavla jail.
+    if explanation:
+        # Telegram sendPoll explanation chi limit 200 characters aahe.
+        # Mhanun motha E: 200 characters paryant gheto.
+        payload["explanation"] = explanation[:200]
+
+    try:
+        r = requests.post(url, json=payload, timeout=30)
+        print(r.text)
+    except requests.RequestException as e:
+        print(f"❌ Telegram request error: {e}")
 
 
 # ================= MAIN =================
 
 all_questions = []
 
-# 🔄 Loop for 3 files
+# 🔄 Saglya 6 files madhun PYQs load kara
 for file_path in FILES:
-    if os.path.exists(file_path): 
-        with open(file_path, "r", encoding="utf-8") as f:
-            file_questions = parse_questions(f.read())
-            all_questions.extend(file_questions) 
-            print(f"Loaded {len(file_questions)} questions from {file_path}")
+
+    if os.path.exists(file_path):
+
+        try:
+            with open(file_path, "r", encoding="utf-8") as f:
+                file_questions = parse_questions(f.read())
+
+            all_questions.extend(file_questions)
+
+            print(
+                f"Loaded {len(file_questions)} questions "
+                f"from {file_path}"
+            )
+
+        except Exception as e:
+            print(f"❌ Error reading {file_path}: {e}")
+
     else:
         print(f"⚠️ Warning: File not found -> {file_path}")
 
-print("TOTAL QUESTIONS AVAILABLE (ALL FILES):", len(all_questions))
+
+print("========================================")
+print("TOTAL QUESTIONS AVAILABLE:", len(all_questions))
+print("========================================")
 
 if not all_questions:
     print("❌ No questions found in any of the files")
     exit()
 
-# 🔀 Random Selection from ALL 3 FILES COMBINED
-selected = random.sample(all_questions, k=min(BATCH_SIZE, len(all_questions)))
 
+# 🔀 Saglya 6 files madhun combined random selection
+selected = random.sample(
+    all_questions,
+    k=min(BATCH_SIZE, len(all_questions))
+)
+
+print(f"🎲 Selected {len(selected)} random PYQs")
+
+
+# 📤 Telegram var quiz polls send kara
 for q in selected:
-    send_poll(q["poll"], q["options"], q["correct"])
-            
+
+    send_poll(
+        q["poll"],
+        q["options"],
+        q["correct"],
+        q["explanation"]
+    )
