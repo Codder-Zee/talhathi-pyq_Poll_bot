@@ -118,7 +118,7 @@ def send_poll(q, options, correct, explanation=""):
     if explanation:
         # Telegram sendPoll explanation chi limit 200 characters aahe.
         # Mhanun motha E: 200 characters paryant gheto.
-        payload["explanation"] = explanation[:200]
+        payload["explanation"] = explanation[:250]
 
     try:
         r = requests.post(url, json=payload, timeout=30)
