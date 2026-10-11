@@ -15,6 +15,7 @@ FILES = [
     "pyq_data/Economy.txt",
     "pyq_data/Polity.txt",
     "pyq_data/History.txt",
+    "pyq_data/Geography.txt",
 ]
 
 BATCH_SIZE = int(os.getenv("BATCH_SIZE", "10"))
