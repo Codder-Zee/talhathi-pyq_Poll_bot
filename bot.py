@@ -18,7 +18,7 @@ FILES = [
     "pyq_data/Geography.txt",
 ]
 
-BATCH_SIZE = int(os.getenv("BATCH_SIZE", "10"))
+BATCH_SIZE = int(os.getenv("BATCH_SIZE", "5"))
 
 
 def parse_questions(text):
