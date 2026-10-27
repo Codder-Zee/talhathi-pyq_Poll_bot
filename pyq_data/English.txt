@@ -3495,3 +3495,465 @@ B: (2) Simple Present *
 C: (3) Simple Future
 D: (4) Future Continuous
 E: व्याकरणानुसार, 'युनिव्हर्सल ट्रुथ' किंवा 'सार्वत्रिक सत्य' दर्शवण्यासाठी नेहमी 'सिंपल प्रेझेंट टेन्स' (साधा वर्तमानकाळ) वापरला जातो. निसर्गाचे नियम, वैज्ञानिक तथ्ये किंवा चिरंतन सत्ये ही काळाच्या मर्यादेबाहेर असतात, म्हणून ती नेहमी वर्तमानकाळातच मांडली जातात. उदाहरणार्थ, 'The sun rises in the east' हे वाक्य साध्या वर्तमानकाळात आहे. म्हणून पर्याय (B) हे योग्य उत्तर आहे.
+
+Z: (MPSC Group C Mains 2025)
+Q: Choose from the following an option with the correct synonymous word-pairs :
+a. ‘Dismal : Gloomy’ and ‘Naive : Artless/simple’.
+b. ‘Pious : Wise’ and ‘Rare : Abundant’.
+c. ‘Mad : Insane’ and ‘Sly : Silent’.
+d. ‘Deny : Refuse’ and ‘Idle : Busy’.
+A: d only
+B: b only
+C: a only*
+D: c only
+E: Dismal/Gloomy and Naive/Artless are correct synonyms. In other options, words like Rare/Abundant or Idle/Busy are antonyms.
+
+Z: (MPSC Group C Mains 2025)
+Q: Choose from the following an option with the correct antonymous word-pairs :
+a. ‘Humility : Arrogance’ and ‘Morbid : Healthy’.
+b. ‘Extrinsic : External’ and ‘False : Wrong’.
+c. ‘Mild : Harsh’ and ‘Liberty : Freedom’.
+d. ‘Motion : Rest’ and ‘Master : Owner’.
+A: d only
+B: a only*
+C: c only
+D: b only
+E: Humility/Arrogance and Morbid/Healthy are correct pairs of opposites (antonyms).
+
+Z: (MPSC Group C Mains 2025)
+Q: Choose the odd word from the following :
+A: National
+B: Original
+C: Focal*
+D: Abdominal
+E: Based on the official answer key, 'Focal' is identified as the odd word in this set of adjectives.
+
+Z: (MPSC Group C Mains 2025)
+Q: Choose the misspelt word from the following :
+A: i. Tranquillity*
+B: ii. Symmetry
+C: iii. Occassionally
+D: iv. Privilege
+E: The word 'Occasionally' is misspelt in the list (it should have one 's'), but according to the key for Set A, option (1) which points to 'Occassionally' is the answer.
+
+Z: (MPSC Group C Mains 2025)
+Q: a. We do nothing in the wasteland
+b. The bougainvillaea looks nice
+c. She left all her money to an orphanage
+d. All women are simply the loving sisters during the elections
+These are the examples of ___________ sentences.
+A: Complex
+B: Simple*
+C: Complex-compound
+D: Compound
+E: All the given sentences contain only one independent clause and no subordinate clauses, making them simple sentences.
+
+Z: (MPSC Group C Mains 2025)
+Q: a. I believe that only selfless people can do justice to human beings.
+b. They declared that henceforth there will be no elections in the oligarchic India.
+c. The police said that all the roadways are blocked ahead.
+d. What he said is true ?
+These are the examples of ___________ clause.
+A: adverb
+B: noun*
+C: adjective
+D: relative
+E: The underlined/highlighted parts in these sentences function as the object or subject of the verb, which is the role of a Noun Clause.
+
+Z: (MPSC Group C Mains 2025)
+Q: A noun phrase is a group of words with ___________ as its head.
+A: Verb
+B: Preposition
+C: Adverb
+D: Noun*
+E: By definition, the head of a noun phrase must be a noun or a pronoun.
+
+Z: (MPSC Group C Mains 2025)
+Q: Umesh said to his father, “I need more money”. The underlined clause in this sentence is ___________.
+A: Reporting verb
+B: Direct speech*
+C: Direct narration
+D: Reported speech
+E: The words within quotation marks represent the exact words spoken, which is called Direct Speech.
+
+Z: (MPSC Group C Mains 2025)
+Q: To add similar additional information, which of the following linking word(s) is/are not used ?
+A: and
+B: furthermore
+C: generally*
+D: in addition
+E: 'Generally' is an adverb of frequency/generalization, not a conjunction used to add similar information like 'and' or 'furthermore'.
+
+Z: (MPSC Group C Mains 2025)
+Q: 'We ought to inculcate patriotic feelings in the youth'. The Modal underlined in the sentence above expresses a. Moral obligation b. External compulsion c. National obligation d. Mild compulsion
+A: d only
+B: a only*
+C: b only
+D: c only
+E: 'Ought to' हे सहाय्यकारी क्रियापद नैतिक कर्तव्य (Moral obligation) व्यक्त करण्यासाठी वापरले जाते.
+
+Z: (MPSC Group C Mains 2025)
+Q: Identify the categories of the verbs underlined in the following sentences. a. I feel some pain from the injury. b. The comforter feels soft. c. We taste the fine wines. d. The wine tastes fine.
+A: a-Action, b-Linking, c-Action, d-Linking*
+B: a-Action, b-Action, c-Action, d-Action
+C: a-Linking, b-Linking, c-Action, d-Action
+D: a-Linking, b-Linking, c-Action, d-Linking
+E: जेव्हा क्रियापद प्रत्यक्ष कृती दर्शवते तेव्हा ते 'Action verb' असते आणि जेव्हा ते कर्त्याबद्दल अधिक माहिती देते तेव्हा ते 'Linking verb' असते.
+
+Z: (MPSC Group C Mains 2025)
+Q: i) The public are tired of demonstrations. ii) The committee have considered your request. In the sentence pair above, the subject nouns ('public' and 'committee') obey the principle of a. Grammatical concord b. Notional concord c. Proximity concord d. Subject + complement concord
+A: d only
+B: a only
+C: b only*
+D: c only
+E: जेव्हा समूहवाचक नामाचा (Collective noun) वापर त्यातील वैयक्तिक घटकांसाठी केला जातो, तेव्हा त्याला 'Notional concord' असे म्हणतात.
+
+Z: (MPSC Group C Mains 2025)
+Q: Choose an option/options containing the verb/s with their correct type/s : a. Sit - Sat = Weak Verb b. Feel - Felt = Weak Verb c. Flee - Fleet = Strong Verb d. Post - Posted = Weak Verb
+A: d only
+B: both b and d*
+C: a only
+D: both b and c
+E: ज्या क्रियापदांचे भूतकाळ 'd', 'ed' किंवा 't' प्रत्यय लावून होतात त्यांना 'Weak Verbs' म्हणतात (उदा. Feel-Felt, Post-Posted).
+
+Z: (MPSC Group C Mains 2025)
+Q: Choose the correct plural/s of the following compound noun/s : a. Passer - bys b. Commander - in - chiefs c. Brothers - in - law d. Sons - in - law
+A: both c and d*
+B: b only
+C: a only
+D: both a and d
+E: संयुक्त नामांचे अनेकवचन करताना मुख्य शब्दाला 's' प्रत्यय लावला जातो (उदा. Brothers-in-law, Sons-in-law).
+
+Z: (MPSC Group C Mains 2025)
+Q: Choose the correct option/s. People who have plenty of money __________. a. seem always to be able to get more. b. often help the poor directly. c. are unaffected by the country's problems. d. get much less than they could. e. dominates access to scarce resources.
+A: a and b
+B: c and e
+C: a and e*
+D: b and d
+E: उताऱ्यानुसार, श्रीमंत लोक नेहमी अधिक मिळवण्यास सक्षम दिसतात आणि दुर्मिळ संसाधनांवर त्यांचे नियंत्रण असते.
+
+Z: (MPSC Group C Mains 2025)
+Q: Which of the following best captures the central analogy of the passage ? a. Society is like a market that needs regulations. b. Society is like a battlefield requiring strength. c. Society is like a sick patient needing careful treatment. d. Society is like a school needing discipline.
+A: a
+B: c*
+C: b
+D: d
+E: उताऱ्यात देशाची तुलना एका आजारी व्यक्तीशी केली आहे जिला बरे करण्यासाठी काळजीपूर्वक उपचारांची गरज आहे.
+
+Z: (MPSC Group C Mains 2025)
+Q: Match the following. A: a. bribery, b. 'pugree' racket, c. discontent, d. effort, e. sacrifice. B: i. things given up for a cause, ii. hard work needed to achieve something, iii. illegal practice of demanding money for favours, iv. dissatisfaction with conditions, v. giving money to get unlawful favour.
+A: a-v, b-iii, c-iv, d-ii, e-i*
+B: a-v, b-ii, c-iii, d-iv, e-i
+C: a-ii, b-iv, c-iii, d-v, e-i
+D: a-i, b-iv, c-ii, d-iii, e-v
+E: शब्दांच्या अर्थानुसार योग्य जोड्या: bribery (v), pugree (iii), discontent (iv), effort (ii), sacrifice (i).
+
+Z: (MPSC Group C Mains 2025)
+Q: Which of the following statements are true in the context of the given passage ? a. The author believes national problems can be fixed without personal sacrifice. b. Corruption and inequality are presented as symptoms of the country's condition. c. Wealthy people are described as getting less than they deserve. d. Improving the country is compared to nursing a sick patient back to health. e. The passage suggests effort is unnecessary for social progress.
+A: a and b
+B: b and c
+C: d and e
+D: b and d*
+E: उताऱ्यात भ्रष्टाचार ही देशाच्या आजाराची लक्षणे मानली आहेत आणि देशाची सुधारणा ही रुग्णाला बरे करण्यासारखी सांगितली आहे.
+
+Z: (MPSC Group C Mains 2025)
+Q: Choose the correct option/s. According to the writer __________. a. people generally welcome sleepless nights and hardship. b. laziness helps solve national issues. c. discontent arises because basic needs are unequally met. d. recovery requires collective effort and sacrifice. e. corruption is irrelevant to the country's problems.
+A: a and b
+B: c and d*
+C: b and e
+D: a and d
+E: लेखकानुसार, असंतोष हा मूलभूत गरजांच्या असमानतेमुळे निर्माण होतो आणि सुधारणेसाठी सामूहिक प्रयत्न व त्यागाची गरज असते.
+
+Z: (MPSC Group C Mains 2025)
+Q: When 'but' and 'for' connect clauses, they are preceded by __________.
+A: a single inversion
+B: double inversion
+C: exclamation
+D: a comma*
+E: जेव्हा 'but' आणि 'for' हे दोन स्वतंत्र उपवाक्ये जोडतात, तेव्हा त्यांच्या आधी स्वल्पविराम (comma) वापरला जातो.
+
+Z: (MPSC Group C Mains 2025)
+Q: 'Through and through' means __________.
+A: entirely*
+B: partially
+C: a little bit
+D: total loss
+E: 'Through and through' या वाक्प्रचाराचा अर्थ 'पूर्णपणे' किंवा 'सर्वार्थाने' (entirely) असा होतो.
+
+Z: (MPSC Group C Mains 2025)
+Q: 'To be hard up' means __________.
+A: very strict
+B: very angry
+C: to be short of kindness
+D: to be short of money*
+E: 'To be hard up' म्हणजे पैशांची चणचण असणे किंवा आर्थिक टंचाई असणे (to be short of money).
+
+Z: (MPSC Group C Mains 2025)
+Q: 'Come up to' implies __________ a. to be very near b. to approach to c. to be equal to d. to try to join hands
+A: a only
+B: b and d only
+C: c only*
+D: d only
+E: 'Come up to' या वाक्प्रचाराचा अर्थ एखाद्या मानकापर्यंत पोहोचणे किंवा त्याच्या बरोबरीचे असणे (to be equal to) असा होतो.
+
+Z: (MPSC Group C Mains 2025)
+Q: Identify the correct sentence that properly refers to the idiom “get a monkey off your back”.
+A: She got a monkey off her back after eating too much cake.
+B: The new policy will get a monkey off your back for employee.
+C: He tried to get a monkey off his back going to the gym but it was closed.
+D: Quitting his toxic job was a huge relief, like getting a monkey off his back.*
+E: “Get a monkey off your back” म्हणजे एखाद्या मोठ्या समस्येतून किंवा ओझ्यातून मुक्त होणे.
+
+Z: (MPSC Group C Mains 2025)
+Q: Read the following words from Column X and Column Y and match them accurately. Column X: I. Corroborate, II. Ubiquitous, III. Vicissitude, IV. Disseminate. Column Y: A. Ordeal, B. Propagate, C. Universal, D. Reinforce.
+A: I-A, II-B, III-C, IV-D
+B: I-D, II-C, III-A, IV-B*
+C: I-B, II-D, III-A, IV-C
+D: I-C, II-A, III-B, IV-D
+E: योग्य समानार्थी शब्द: Corroborate-Reinforce, Ubiquitous-Universal, Vicissitude-Ordeal, Disseminate-Propagate.
+
+Z: (MPSC Group C Mains 2025)
+Q: Give one word substitute to the statement, ‘The action of looking back on past time’. a. Recapitulation b. Retrospection c. Introspection d. Memorization
+A: a only
+B: b only*
+C: b and c only
+D: d only
+E: भूतकाळातील घटनांचे सिंहावलोकन करणे याला 'Retrospection' असे म्हणतात.
+
+Z: (MPSC Group C Mains 2025)
+Q: Point out the base in the word ‘unfriendliness’ __________.
+A: Unfriend
+B: Unfriendly*
+C: Friend
+D: Friendly
+E: 'Unfriendliness' या शब्दात 'Unfriendly' हा मूळ आधार (base) आहे ज्याला 'ness' प्रत्यय लागला आहे.
+
+Z: (MPSC Group C Mains 2025)
+Q: Choose the correct phrase for the word, ‘call at’.
+A: To call someone
+B: To be called by someone
+C: To visit somebody's house, office*
+D: All of the above
+E: 'Call at' म्हणजे एखाद्या व्यक्तीच्या घरी किंवा कार्यालयात भेट देण्यासाठी जाणे.
+
+Z: (MPSC Group C Mains 2025)
+Q: Select the word which is most opposite in meaning to the word ‘boisterous’.
+A: Raucous
+B: Quiet*
+C: Uproarious
+D: None of the above
+E: 'Boisterous' म्हणजे गोंगाट करणारा किंवा उत्साही, तर 'Quiet' म्हणजे शांत, जो त्याचा विरुद्धार्थी शब्द आहे.
+
+Z: (MPSC Group C Mains 2025)
+Q: “We will continue to fight for as long as it takes.”
+In this sentence “fight” most nearly means __________.
+a. Hide
+b. Struggle for a cause
+c. Surrender
+d. Complete in a game
+A: c
+B: a
+C: b*
+D: d
+E: दिलेल्या वाक्यात 'fight' या शब्दाचा अर्थ एखाद्या ध्येयासाठी किंवा कारणासाठी संघर्ष करणे (Struggle for a cause) असा होतो.
+
+Z: (MPSC Group C Mains 2025)
+Q: Choose the proper suffix to make the following sentence meaningful :
+“Her child __________ enthusiasm was contagious, lifting everyone’s mood.”
+A: like*
+B: ish
+C: minder
+D: hood
+E: 'Childlike' (बालसुलभ) हा शब्द उत्साहाचे वर्णन करण्यासाठी योग्य आहे, म्हणून 'like' हा प्रत्यय (suffix) योग्य ठरतो.
+
+Z: (MPSC Group C Mains 2025)
+Q: Choose the correct option that replaces the phrase ‘agree with’ in the sentence :
+“I agree with your terms.”
+A: allow
+B: except
+C: approval
+D: accept*
+E: 'Agree with' म्हणजे मान्य करणे किंवा स्वीकारणे, यासाठी 'accept' हा शब्द सर्वात जवळचा पर्याय आहे.
+
+Z: (MPSC Group C Mains 2025)
+Q: Point out the correct statements.
+a. A person who writes plays is a playwright.
+b. Asylum is a place where mentally ill and mad persons are kept.
+c. A hermit is a person who lives in nature after discarding society for some religious reasons.
+d. A place where birds and animals are protected and encouraged to breed is a sanctuary.
+A: All of these*
+B: None of these
+C: b and d
+D: a and c
+E: दिलेली सर्व विधाने (a, b, c, d) शब्दसमूहाबद्दल एक शब्द या दृष्टीने व्याकरणदृष्ट्या आणि अर्थाच्या दृष्टीने बरोबर आहेत.
+
+Z: (MPSC Group C Mains 2025)
+Q: Choose from the following an option/options with the correct synonymous word-pair/s :
+a. ‘Sterile : Barren’ and ‘Vulgar : Coarse’.
+b. ‘Static : Moving’ and ‘Weary : Enthusiastic’.
+c. ‘Zeal : Passion’ and ‘Wild : Tame’.
+d. ‘Shy : Bashful’ and ‘Tame : Moderate’.
+A: d only
+B: a only*
+C: both a and b
+D: c only
+E: पर्याय 'a' मधील जोड्या समानार्थी आहेत: Sterile-Barren (नापीक) आणि Vulgar-Coarse (अश्लील/गावंढळ). इतर पर्यायांत विरुद्धार्थी शब्द आहेत.
+
+Z: (MPSC Group C Mains 2025)
+Q: ‘To show the white feather’, implies __________.
+a. to deceive someone
+b. to act like a coward
+c. to behave like a brave
+d. to gossip about someone
+A: a and d only
+B: b only*
+C: c only
+D: d only
+E: 'To show the white feather' या वाक्प्रचाराचा अर्थ भित्रेपणा दाखवणे (to act like a coward) असा होतो.
+
+Z: (MPSC Group C Mains 2025)
+Q: “The whole family is in the soup nowadays”. Trace the meaning of the underlined idiom.
+a. in happiness
+b. in difficulty
+c. in festival
+d. in celebrations
+A: a only
+B: b only*
+C: c only
+D: c and d only
+E: 'In the soup' या इडिअमचा अर्थ अडचणीत असणे (in difficulty) असा होतो.
+
+Z: (MPSC Group C Mains 2025)
+Q: Trace the exact meaning of the idiom, ‘To have kangaroos in the top paddock’.
+a. to be mad or eccentric
+b. to be after someone
+c. to take revenge
+d. to be furious
+A: a only*
+B: b only
+C: c only
+D: c and d only
+E: 'To have kangaroos in the top paddock' म्हणजे वेडसर किंवा विक्षिप्त असणे (to be mad or eccentric).
+
+Z: (MPSC Group C Mains 2025)
+Q: Choose the sentence/s where the phrase “give over” is meaningfully used.
+a. Give over, Chris ! You’re hurting me.
+b. The flowers will give over beautiful colours in the garden.
+c. Give over complaining !
+d. She will give over the party tonight.
+A: a and b
+B: b and c
+C: a and c*
+D: b and d
+E: 'Give over' चा वापर एखादी गोष्ट थांबवण्यासाठी (stop doing something) केला जातो, जो 'a' आणि 'c' वाक्यात योग्य आहे.
+
+Z: (MPSC Group C Mains 2025)
+Q: Identify the sentence/s where the phrase “in the heat of the moment” is properly used.
+a. In the heat of the moment, she forgot what she wanted to say.
+b. The cake was baked in the heat of the moment.
+c. The company is launching a new product in the heat of the moment next quarter.
+d. He proposed to her in the heat of the moment and she is still smiling about it.
+A: a and c
+B: b and c
+C: a and d*
+D: b and d
+E: 'In the heat of the moment' म्हणजे भावनेच्या भरात किंवा विचार न करता कृती करणे, जे 'a' आणि 'd' मध्ये योग्यरित्या वापरले आहे.
+
+Z: (MPSC Group C Mains 2025)
+Q: Turn the following sentence into indirect speech.
+He said to me, ‘I don’t believe you’.
+A: He said to me that I don’t believe you
+B: He said that he didn’t believe you
+C: He said that he didn’t believe me*
+D: He said that he didn’t believe him
+E: Indirect speech मध्ये 'said to' चे 'said' किंवा 'told' होते, 'I' चे 'he' आणि 'don't' चे 'didn't' होते, तसेच 'you' चे 'me' मध्ये रूपांतर होते.
+
+Z: (MPSC Group C Mains 2025)
+Q: Change the following sentence into ‘Yes-No’ type question. Choose the correct option/s.
+“He has a car”.
+a. Does he have a car ?
+b. Has he got a car ?
+c. Has he gets a car ?
+d. Does he has a car ?
+A: a and b*
+B: c and d
+C: b and c
+D: a and d
+E: 'He has a car' चे प्रश्नार्थक रूप 'Does he have a car?' किंवा 'Has he got a car?' असे दोन्ही प्रकारे होऊ शकते.
+
+Z: (MPSC Group C Mains 2025)
+Q: Identify the condition expressed in the sentence.
+“If the police had arrived earlier, the robbery might have been prevented.”
+A: Possibility*
+B: Ability
+C: Improbability
+D: Impossibility
+E: हे वाक्य भूतकाळातील एका शक्यतेबद्दल (Possibility) भाष्य करते जी घडू शकली असती.
+
+Z: (MPSC Group C Mains 2025)
+Q: Choose the correct option/s :
+Change the voice :
+“My uncle gave me a pen”.
+a. I was given a pen by my uncle.
+b. A pen was given to me by my uncle.
+c. My uncle was given a pen.
+d. I am given a pen by my uncle.
+A: a and b*
+B: a and d
+C: b and c
+D: b and d
+E: दिलेल्या वाक्यात दोन कर्म (Direct & Indirect object) आहेत, त्यामुळे 'a' आणि 'b' ही दोन्ही Passive Voice ची रूपे बरोबर आहेत.
+
+Z: (MPSC Group C Mains 2025)
+Q: Choose from the following a sentence/sentences with the correct subject (actual) and verb agreement :
+a. The cost of all the necessaries has gone up.
+b. The cost of all the necessaries have gone up.
+c. The information our journal offers to the exporters is very valuable.
+d. The information our journal offers to the exporters are very valuable.
+A: c only
+B: both a and c*
+C: d only
+D: b only
+E: वाक्य 'a' मध्ये 'The cost' (एकवचनी) नुसार 'has' योग्य आहे. वाक्य 'c' मध्ये 'The information' (uncountable/singular) नुसार 'is' योग्य आहे.
+
+Z: (MPSC Group C Mains 2025)
+Q: Which of the following sentences are in the imperative mood ?
+a. Drive slowly
+b. Matheran is a hill station
+c. God be with you
+d. Walk fast
+A: a and d*
+B: b and c
+C: c and d
+D: a and b
+E: आज्ञार्थी वाक्यात (Imperative mood) आज्ञा किंवा विनंती असते. 'Drive slowly' आणि 'Walk fast' ही आज्ञार्थी वाक्ये आहेत.
+
+Z: (MPSC Group C Mains 2025)
+Q: Fill in the blanks.
+__________ virtue __________ the power vested __________ me, I here by order.
+A: In, by, of
+B: By, of, in*
+C: Of, in, by
+D: By, in, of
+E: योग्य शब्दरचना 'By virtue of the power vested in me' अशी असते, जी अधिकाराचा वापर दर्शवते.
+
+Z: (MPSC Group C Mains 2025)
+Q: Choose the correct alternative to complete the sentence.
+He __________ here for the last five years.
+A: has been working*
+B: is working
+C: does work
+D: worked
+E: 'For the last five years' हे दर्शवते की क्रिया भूतकाळात सुरू होऊन अजूनही चालू आहे, म्हणून Present Perfect Continuous Tense (has been working) वापरला जातो.
+
+Z: (MPSC Group C Mains 2025)
+Q: Which is/are correct sentence/s to talk about the things that happened repeatedly in the past ?
+i. We would lend him money when he was unemployed.
+ii. We used to lend him money when he was unemployed.
+iii. Tim would visit his parents every other weekend.
+iv. Tim used to visit his parents every other weekend.
+A: Only ii and iv are correct
+B: Only i and iii are correct
+C: All are incorrect
+D: All are correct*
+E: भूतकाळातील सवयी किंवा वारंवार घडणाऱ्या घटना दर्शवण्यासाठी 'would' आणि 'used to' या दोन्हीचा वापर केला जातो, त्यामुळे सर्व विधाने बरोबर आहेत.
